@@ -8,7 +8,7 @@
   - [<p dir='rtl' align='right'> اساسيات برتوكول HTTP</p>](#HTTP-)
   - [<p dir='rtl' align='right'> الشبكات </p>](#Network-)
   - [<p dir='rtl' align='right'> البرمجة</p>](#Programming-)
-  - [<p dir='rtl' align='right'> الثغرات</p>](/assets/basics.md)
+  - [<p dir='rtl' align='right'> الكمبيوتر</p>](#Computing-Fundamentals)
   - [<p dir='rtl' align='right'> السكربتات والاكواد</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'> المقالات و البحوث</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'> الشهادات الاحترافية</p>](/assets/basics.md)
@@ -65,4 +65,21 @@
   
 - [<p dir='rtl' align='right'>   دورة من موقع Codecademy "باللغة الانجليزية" </p>](https://www.codecademy.com/learn/learn-sql )
 - [<p dir='rtl' align='right'>   دورة "باللغة العربية" من قناة Citystarit </p>](https://youtu.be/DRAYLqsu4jo)
+
+  ### [<p dir='rtl' align='right'> اساسيات الكمبيوتر Computing Fundamentals </p>](https://www.hoppersroppers.org/course.html)
+>  <p dir='rtl' align='right'> ان من اهم الاساسيات هي معرفتك كيف تعمل انظمة التشغيل وماهي الثغرات الخاصة بها واين تتواجد الملفات الحساسة في الخوادم على مختلف انواع انظمة التشغيل سواء كانت ويندوز لينكس وغيرها وسأقوم بسرد بعض الدورات الخاصة باللغة العربية والانحليزية:
+  
+<h5 dir='rtl' align='right'>نظام ويندوز   </h5>
+
+>  <p dir='rtl' align='right'> يعتبر نظام ويندوز من اشهر الانظمة الخاصة بخوادم تطبيقات الويب وشاهدنا ثغرات متعددة في عامي ٢٠١٩ وعام ٢٠٢٠ والتي تمكن المخترق من التحكم والسيطرة على الخوادم المصابة بالثغرات لذلك يجب عليك معرفة النظام وكيف يعمل 
+
+- [<p dir='rtl' align='right'>   دورة من موقع HackerSploit "باللغة الانجليزية" </p>](https://youtu.be/tHd8k54kVs8 )
+- [<p dir='rtl' align='right'>   دورة "باللغة العربية" من قناة MadrasaTech Official </p>](https://youtu.be/oJma1hgLSlE)
+
+<h5 dir='rtl' align='right'>نظام لينكس   </h5>
+
+>  <p dir='rtl' align='right'> انتشار نظام لينكس في خوادم تطبيقات الويب اكبر من ويندوز بكثير لذلك معرفة آلية عملة مهمة جداً ومعرفة الاخطاء التي قد يتركبها مدير النظام مهمة وهنا سأقوم بذكر بعض الدورات التي تعين على ذلك 
+- [<p dir='rtl' align='right'>   دورة من قناة tutoriaLinux "باللغة الانجليزية" </p>](https://youtu.be/bju_FdCo42w )
+- [<p dir='rtl' align='right'>   دورة "باللغة العربية" من قناة Computer Mind </p>](https://youtu.be/jbiIZ7IcX18)
+
 </p>
