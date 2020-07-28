@@ -34,7 +34,8 @@
   ### [<p dir='rtl' align='right'> اساسيات الشبكات Netowrk- </p>](https://youtu.be/JFmQ74z1UyA)
 >  <p dir='rtl' align='right'> ان من اهم الاساسيات في عملية اختبار الاختراق او اصطياد الثغرات هو معرفة كيف تعمل الشبكات بشكل متعمق وفهم المصطلحات الضرورية لذلك فعمليات الفحص معظمها تتم من خلال الشبكات وعناوين IP. لذلك قمت بارفاق لكم دورة تتحدث عن اساسيات الشبكات وهي دورة باللغة العربية تشرح شهادة Network+ 
 
-- [<p dir='rtl' align='right'>ماهي الالية المتبعة في الشبكات </p>](https://www.nic.sa/ar/view/doc157)
+- [<p dir='rtl' align='right'>ماهي الالية المتبعة في الشبكات "اللغة العربية " </p>](https://www.nic.sa/ar/view/doc157)
+- [<p dir='rtl' align='right'>ماهي الالية المتبعة في الشبكات "اللغة الانجليزية " </p>](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 - [<p dir='rtl' align='right'>  ماهو العنوان IP</p>](https://ar.wikipedia.org/wiki/بروتوكول_الإنترنت_(الإصدار_الرابع))
 - [<p dir='rtl' align='right'>  ماهي المنافذ ports</p>](https://ar.wikipedia.org/wiki/منفذ_(شبكات))
 - [<p dir='rtl' align='right'>   ماهو اسماء النطاقات </p>](https://www.nic.sa/view/faq06)
