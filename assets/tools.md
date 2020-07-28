@@ -162,17 +162,17 @@
   </tr>
   <td> اداة  Reconness  </td>
   <td> اداة تقوم بجميع جميع عمليات الفحص وترتيبها في مكان واحد  </td>
-  <td> لغة C </td>
+  <td> لغة C++ </td>
   <td>https://github.com/reconness</td>
   </tr>
   <td> اداة  knock  </td>
   <td>تقوم بعمليات جمع للنطاقات الفرعية للموقع المستهدف  </td>
-  <td> لغة C </td>
+  <td> لغة Go </td>
   <td>https://github.com/guelfoweb/knock</td>
   </tr>
   <td> اداة  SpiderFoot  </td>
   <td>هي منصة تقوم باستخدام اكثر من ١٠٠ مصدر لجمع المعلومات عن الموقع المستهدف   </td>
-  <td> لغة C </td>
+  <td> لغة Python </td>
   <td>https://github.com/smicallef/spiderfoot</td>
   </table>
 
