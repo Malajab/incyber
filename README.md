@@ -11,6 +11,6 @@
 
 <p dir='rtl' align='right'> 
   
-  - [<p dir='rtl' align='right'> fff</p>](/assets/basics.md)
+  - [<p dir='rtl' align='right'> الاساسيات</p>](/assets/basics.md)
 
 </p> 
