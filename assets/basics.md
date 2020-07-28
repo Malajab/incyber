@@ -48,4 +48,9 @@
   
 - [<p dir='rtl' align='right'>   دورة من موقع Codecademy "باللغة الانجليزية" </p>](https://www.codecademy.com/learn/learn-html)
 - [<p dir='rtl' align='right'>   دورة "باللغة العربية" من قناة Hamid Oumoumen </p>](https://youtu.be/8p2_FqT7LxE)
+
+>  <p dir='rtl' align='right'>بعد اتقانك للغة HTML ننصحك بعدها بالانتقال الى تعلم اللغة الثانية وهي لغة مهمة جداً في اختبار تطبيقات الويب وهي لغة Javascript وسأقوم بذكر مصادر متعددة لتعلم تلك اللغة: 
+  
+- [<p dir='rtl' align='right'>   دورة من موقع Codecademy "باللغة الانجليزية" </p>](https://www.codecademy.com/learn/introduction-to-javascript )
+- [<p dir='rtl' align='right'>   دورة "باللغة العربية" من قناة Elzero Web School </p>](https://youtu.be/eKuNnpWhm7c)
 </p>
