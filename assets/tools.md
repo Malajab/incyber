@@ -82,6 +82,21 @@
   <td>لغة الجافا </td>
   <td>https://portswigger.net</td>
     </tr>
+      <td> اضافة HUNT  </td>
+  <td>تقوم هذه الاداة بفحص بفحص الثغرات واستخراجها وهي مخصصة لثغرات SQL وثغرة IDOR </td>
+  <td>لغة الجافا </td>
+  <td>https://portswigger.net</td>
+  </tr>
+  <td> اضافة Mind Map Exporter  </td>
+  <td>  وظيفة هذه الاداة رسم الخارطة الذهنية لجيمع الروابط الخاصة بالموقع الذي يتم فحصة </td>
+  <td>لغة الجافا </td>
+  <td>https://portswigger.net</td>
+  </tr>
+  <td> اضافة Burp JS link finder  </td>
+  <td> تقوم الاداة باستخراج جميع الروابط من ملفات JS والتي قد يكون بعضها يحتوى على معلومات حساسة </td>
+  <td>لغة الجافا </td>
+  <td>https://portswigger.net</td>
+   </tr>
   </table>
 
  
