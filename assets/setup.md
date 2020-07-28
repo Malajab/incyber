@@ -26,4 +26,10 @@
   - [<p dir='rtl' align='right'>🖥 تثبيت نظام tails باللغة الانجليزية </p>](https://tails.boum.org)
   - [<p dir='rtl' align='right'>🖥 تثبيت نظام الكتاب الشهير thehackerplaybook النسخة الثالثة باللغة الانجليزية</p>](http://dl1.thehackerplaybook.com/THP-vm.zip)
   - [<p dir='rtl' align='right'>🖥 تثبيت نظام pentoo باللغة الانجليزية </p>](https://www.pentoo.ch)
+  - [<p dir='rtl' align='right'>🖥  مقدمة في استخدام Docker لمسابقات التقط العلم</p>](https://www.youtube.com/watch?v=cPGZMt4cJ0I)
+  - [<p dir='rtl' align='right'>🖥  شرح استخدام termux في اختبار الاختراق واصطياد الثغرات</p>](https://www.hahwul.com/2020/05/setup-bugbounty-hunting-env-on-termux-d.html?m=1)
+  - [<p dir='rtl' align='right'>🖥  تثبيت  Burp Suite باللغة الانجليزية </p>](https://www.hacker101.com/playlists/burp_suite)
+  - [<p dir='rtl' align='right'>🖥  شرح عمل برنامج Burp Suite  باللغة الانجليزية</p>](https://github.com/bugcrowd/bugcrowd_university/blob/master/An_introduction_to_Burp_Suite/Bugcrowd%20University%20-%20Burp%20Suite%20Introduction.pdf)
+  - [<p dir='rtl' align='right'>🖥  شرح عمل برنامج Burp Suite  باللغة العربية من قناة فادي </p>](https://youtu.be/0PcrjdeqSaY)
+  - [<p dir='rtl' align='right'>🖥  شرح برنامج Burp Suite من معهد PortSwigger  باللغة الانجليزية </p>](https://www.youtube.com/channel/UCkytgKNbJ0L1UuN1K27GAKA)
   </p>
