@@ -11,7 +11,7 @@
 
 <p dir='rtl' align='right'> 
   
-  - [<p dir='rtl' align='right'> ✅ الاساسيات</p>](/assets/basics.md)
+  - [<p dir='rtl' align='right'> ✅  الاساسيات في اختبار الاختراق واصطياد الثغرات</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'> ✅ تثبيت انظمة التشغيل الخاصة باختبار الاختراق  </p>](/assets/setup.md)
   - [<p dir='rtl' align='right'>⏳ الادوات</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'>⏳ مختبرات الاخترق</p>](/assets/basics.md)
