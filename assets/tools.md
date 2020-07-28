@@ -174,5 +174,20 @@
   <td>هي منصة تقوم باستخدام اكثر من ١٠٠ مصدر لجمع المعلومات عن الموقع المستهدف   </td>
   <td> لغة Python </td>
   <td>https://github.com/smicallef/spiderfoot</td>
+    </tr>
+  <td> اداة  DNSDumpster  </td>
+  <td> اداة متميزة في حصر وجمع النطاقات الفرعية للموقع المستهدف </td>
+  <td> غير معروف  </td>
+  <td>https://dnsdumpster.com/</td>
+      </tr>
+  <td> اداة  masscan  </td>
+  <td> اداة تقوم بعمليات فحص للعناوين IP والمنفاذ بشكل سريع جداً </td>
+  <td> غير معروف  </td>
+  <td>https://github.com/robertdavidgraham/masscan</td>
+        </tr>
+  <td> اداة  dnsenum   </td>
+  <td> اداة تقوم بحصر وجمع المعلومات عن النطاقات الفرعية للموقع المستهدف </td>
+  <td> لغة Perl  </td>
+  <td>https://github.com/fwaeytens/dnsenum/</td>
   </table>
 
