@@ -37,6 +37,6 @@
 - [<p dir='rtl' align='right'>ماهي الالية المتبعة في الشبكات </p>](https://www.nic.sa/ar/view/doc157)
 - [<p dir='rtl' align='right'>  ماهو العنوان IP</p>](https://ar.wikipedia.org/wiki/بروتوكول_الإنترنت_(الإصدار_الرابع))
 - [<p dir='rtl' align='right'>  ماهي المنافذ ports</p>](https://ar.wikipedia.org/wiki/منفذ_(شبكات))
-- [<p dir='rtl' align='right'>   ماهواسماء النطاقات </p>](https://www.nic.sa/view/faq06)
-- [<p dir='rtl' align='right'>   ماهواسماء النطاقات الامن </p>](https://nic.sa/ar/view/dnssec)
+- [<p dir='rtl' align='right'>   ماهو اسماء النطاقات </p>](https://www.nic.sa/view/faq06)
+- [<p dir='rtl' align='right'>   ماهو اسماء النطاقات الامن </p>](https://nic.sa/ar/view/dnssec)
 </p>
