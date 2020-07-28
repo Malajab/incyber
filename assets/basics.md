@@ -7,7 +7,7 @@
   - [<p dir='rtl' align='right'> دورة Stanford CS 253 Web Security </p>](#Stanford-CS-253-Web-Security)
   - [<p dir='rtl' align='right'> اساسيات برتوكول HTTP</p>](#HTTP-)
   - [<p dir='rtl' align='right'> الشبكات </p>](#Network-)
-  - [<p dir='rtl' align='right'> مختبرات الاخترق</p>](/assets/basics.md)
+  - [<p dir='rtl' align='right'> البرمجة</p>](#Programming-)
   - [<p dir='rtl' align='right'> الثغرات</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'> السكربتات والاكواد</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'> المقالات و البحوث</p>](/assets/basics.md)
@@ -40,4 +40,12 @@
 - [<p dir='rtl' align='right'>  ماهي المنافذ ports</p>](https://ar.wikipedia.org/wiki/منفذ_(شبكات))
 - [<p dir='rtl' align='right'>   ماهو اسماء النطاقات </p>](https://www.nic.sa/view/faq06)
 - [<p dir='rtl' align='right'>   ماهو اسماء النطاقات الامن </p>](https://nic.sa/ar/view/dnssec)
+
+  ### [<p dir='rtl' align='right'> اساسيات البرمجة Programming- </p>](https://ar.wikipedia.org/wiki/برمجة)
+>  <p dir='rtl' align='right'> عدم معرفتك لكتابة الاكواد البرمجية لا يعني عدم مقدرتك على دخول مجال اختبار الاختراق او اصطياد الثغرات والعكس كذلك معرفتك لطريقة كتابة الاكواد البرمجية لا يجعلك مختبر اختراق ناجح لذلك ارى من المناسب ان يكون لديك اساسيات التي تعينك على قراءة الاكواد البرمجية بسلاسة ومن دون ان تواجه اي مشكلة٫كما ان معرفتك لكتابة بعض السكزبتات البسيطة تساعدك على توفير الوقت من خلال اتمتة بعض الاعمال الروتينية سواء كانت فحص وا استخراج نتائج محددة من عملية اختبار الاختراق.
+  
+>  <p dir='rtl' align='right'> لغة HTML:تعتبر لغة HTML من اللغات السهلة في التعلم ومصادر تعلمها ومتوفرة بكثرج حيث ان بعض اشهر الثغرات مثل XSS وغيرها تستطيع اكتشافها من هنا لذلك سأقوم بوضع بعض المصادر بالاسفل باللغة العربية والانجليزية:
+  
+- [<p dir='rtl' align='right'>   دورة من موقع Codecademy "باللغة الانجليزية" </p>](https://www.codecademy.com/learn/learn-html)
+- [<p dir='rtl' align='right'>   دورة "باللغة العربية" من قناة Hamid Oumoumen </p>](https://youtu.be/8p2_FqT7LxE)
 </p>
