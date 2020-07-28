@@ -13,4 +13,4 @@
   - [<p dir='rtl' align='right'> المقالات و البحوث</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'> الشهادات الاحترافية</p>](/assets/basics.md)
   
-  ### Stanford CS 253 Web Security
+  ### <p dir='rtl' align='right'>دورة Stanford CS 253 Web Security </p> 
