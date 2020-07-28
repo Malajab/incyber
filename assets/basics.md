@@ -58,3 +58,11 @@
 - [<p dir='rtl' align='right'>   دورة من موقع Codecademy "باللغة الانجليزية" </p>](https://www.codecademy.com/learn/introduction-to-javascript )
 - [<p dir='rtl' align='right'>   دورة "باللغة العربية" من قناة Elzero Web School </p>](https://youtu.be/eKuNnpWhm7c)
 </p>
+
+<h5 dir='rtl' align='right'>لغة SQL  </h5>
+
+>  <p dir='rtl' align='right'> اذا كنت اطلعت على OWASP Top 10  سترى ان ثغرة SQL inection  او حقن لغة الاستعلامات هي من اخطر الثغرات لذلك لايد ان تتعلم كيف تعمل وكيف تقوم باستغلالها وسنقوم بسرد بعض المصادر: 
+  
+- [<p dir='rtl' align='right'>   دورة من موقع Codecademy "باللغة الانجليزية" </p>](https://www.codecademy.com/learn/learn-sql )
+- [<p dir='rtl' align='right'>   دورة "باللغة العربية" من قناة Citystarit </p>](https://youtu.be/DRAYLqsu4jo)
+</p>
