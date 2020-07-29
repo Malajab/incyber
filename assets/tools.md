@@ -318,3 +318,26 @@
     <td>http://sqlmap.org</td>
        </tr>
        </table>  
+       
+  ## <h3 dir='rtl' align='right'>🧰 ادوات اختبار اختراق الهواتف الذكية </h3>
+  <table dir='rtl' align="right">
+  <tr>
+    <th>اسم الاداة </th>
+    <th> الوصف </th>
+    <th> الموقع </th>
+    <tr>
+    <td> اداة jadx </td>
+    <td>تقوم بقراءة الكود المصدري للتطبيق</td>
+    <td>https://github.com/skylot/jadx</td>
+       </tr>
+      <tr>
+    <td> اداة dex2jar </td>
+    <td>تقوم بقراءة الكود المصدري للتطبيق</td>
+    <td>https://github.com/pxb1988/dex2jar</td>
+       </tr>
+        <tr>
+    <td> منصة Mobile Security Framework (MobSF)  </td>
+    <td>تقوم المنصة بتحليل التطبيق بشكل كامل من نواحي متعددة سواء كانت ثغرات او برمجيات خبيثة</td>
+    <td>https://github.com/MobSF/Mobile-Security-Framework-MobSF/</td>
+       </tr>
+       </table>  
