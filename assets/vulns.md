@@ -73,5 +73,5 @@
 
 <h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرات upload </h3>
 
-- [<p dir='rtl' align='right'>3️⃣ شرح استغلال ثغرة Upload  باللغة العربية </p>](https://youtu.be/j_09DZfqT-4)
-- [<p dir='rtl' align='right'>3️⃣ شرح استغلال ثغرة Upload  باللغة الانجليزية </p>](https://youtu.be/CmF9sEyKZNo)
+- [<p dir='rtl' align='right'>1️⃣ شرح استغلال ثغرة Upload  باللغة العربية </p>](https://youtu.be/j_09DZfqT-4)
+- [<p dir='rtl' align='right'>2️⃣ شرح استغلال ثغرة Upload  باللغة الانجليزية </p>](https://youtu.be/CmF9sEyKZNo)
