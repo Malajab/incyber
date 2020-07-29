@@ -7,12 +7,13 @@
 
 ## <h3 dir='rtl' align='right'>📚 جدول المحتويات  </h3>
 
-  - [<p dir='rtl' align='right'>📃 دورة Network +  </p>](#security+) 
+  - [<p dir='rtl' align='right'>📃 دورة Network +  </p>](#security+)
   - [<p dir='rtl' align='right'>📃 دورة Security +  </p>](#security+)
-  - [<p dir='rtl' align='right'>📃 دورة OSCP </p>](#OSCP)
+  - [<p dir='rtl' align='right'>📃 دورة PTS </p>](#PTS)
   - [<p dir='rtl' align='right'>📃 دورة WAPT </p>](#WAPT)
   - [<p dir='rtl' align='right'>📃 دورة PTP </p>](#PTP)
-  - [<p dir='rtl' align='right'>📃 دورة PTS </p>](#PTS)
+  - [<p dir='rtl' align='right'>📃 دورة OSCP </p>](#OSCP)
+
   
   <h4 dir='rtl' align='right'>▪️  مصادر شهادة Network + </h4>
   
