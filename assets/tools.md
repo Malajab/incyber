@@ -6,7 +6,7 @@
 
   - [<p dir='rtl' align='right'>🧰 الملقم Proxy  والتنصت على الشبكات </p>](#Proxy-&-Network-Sniffer)
   - [<p dir='rtl' align='right'>🧰 الاضافات الخاصة ببرنامج Burp </p>](#Burp-Extensions) 
-  - [<p dir='rtl' align='right'>🧰 فحص الخوادم والشبكات  </p>](#Recon,-OSINT-&-Discovery)
+  - [<p dir='rtl' align='right'>🧰 فحص خوادم تطبيقات الويب   </p>](#Recon,-OSINT-&-Discovery)
   - [<p dir='rtl' align='right'>🧰 جمع المعلومات من خلال المصادر المفتوحة </p>](#Exploitation)
   - [<p dir='rtl' align='right'>🧰 ادوات الاختراق  </p>](#Exploitation)
   - [<p dir='rtl' align='right'>🧰 ادوات الفحص</p>](#Scanners)
@@ -113,7 +113,7 @@
    </tr>
   </table>
 
-  ## <h3 dir='rtl' align='right'>🧰 فحص الخوادم والشبكات </h3>
+  ## <h3 dir='rtl' align='right'>🧰 فحص خوادم تطبيقات الويب </h3>
   <table dir='rtl' align="right">
   <tr>
     <th>اسم الاداة </th>
@@ -288,6 +288,7 @@
        </table>   
        
   ## <h3 dir='rtl' align='right'>🧰 ادوات الاختراق </h3>
+  
   <table dir='rtl' align="right">
   <tr>
     <th>اسم الاداة </th>
@@ -296,5 +297,24 @@
     <tr>
     <td> اداة SQLMAP </td>
     <td>اداة مفتوحة المصدر تقوم بختبار واتمتة عمليات اختبار واستغلال ثغرة SQL</td>
-    <td>http://sqlmap.org//td>
-    <tr> 
+    <td>http://sqlmap.org<td>
+               </tr>
+       </table>  
+       
+  ## <h3 dir='rtl' align='right'>🧰 ادوات فحص الشبكات </h3>
+  
+  <table dir='rtl' align="right">
+  <tr>
+    <th>اسم الاداة </th>
+    <th> الوصف </th>
+    <th> الموقع </th>
+    <tr>
+    <td> اداة NMAP </td>
+    <td>اداة تقوم بالبحث عن المنافذ المفتوحة على الشبكة المستهدفة</td>
+    <td>https://nmap.org</td>
+    </tr> 
+      <tr>
+    <td>  مستودع KeyHacks  </td>
+    <td>تقوم بحصر وجمع جميع API التي تم كتابة تقارير سابقه عنها في منصات مكآفات الثغرات</td>
+    <td>https://github.com/streaak/keyhacks</td>
+    </tr> 
