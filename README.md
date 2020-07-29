@@ -21,7 +21,7 @@
   - [<p dir='rtl' align='right'>⏳ المقالات و البحوث</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'>⏳ الشهادات الاحترافية</p>](/assets/basics.md)
   
-  ---
+
 ## <h3 dir='rtl' align='right'>📤 الاقتراحات  </h3>
 
 [<p dir='rtl' align='right'> تواصل معنا على ديسكورد</p>](https://discord.gg/5MtNfwy)
