@@ -44,9 +44,34 @@
 - [<p dir='rtl' align='right'>1️⃣  فيديو شرح استغلال ثغرة XXE </p>](https://www.youtube.com/watch?v=gjm6VHZa_8s)
 - [<p dir='rtl' align='right'>2️⃣ شرح استغلال ثغرة XXE من موقع portswigger </p>](https://portswigger.net/web-security/xxe)
 
-<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرة CSRF  </h3>
+<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرة IDOR  </h3>
 
-- [<p dir='rtl' align='right'>1️⃣  </p>]()
-- [<p dir='rtl' align='right'>1️⃣  </p>]()
-- [<p dir='rtl' align='right'>1️⃣  </p>]()
-- [<p dir='rtl' align='right'>1️⃣  </p>]()
+- [<p dir='rtl' align='right'>1️⃣ ماهي ثغرة IDOR </p>](https://www.youtube.com/watch?v=rloqMGcPMkI)
+- [<p dir='rtl' align='right'>2️⃣ كيف تجد ثغرة IDOR </p>](https://www.youtube.com/watch?v=gINAtzdccts)
+- [<p dir='rtl' align='right'>3️⃣ استخدم Burp لايجاد ثغرة IDOR </p>](https://www.youtube.com/watch?v=3K1-a7dnA60)
+- [<p dir='rtl' align='right'>4️⃣ شرح ثغرة IDOR باللغة العربية </p>](https://youtu.be/hYyKSF2x_8I)
+
+<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرة Open Redirect  </h3>
+
+- [<p dir='rtl' align='right'>1️⃣ ماهي. ثغرة Open Redirect باللغة الانجليزية </p>](https://www.youtube.com/watch?v=4Jk_I-cw4WE)
+- [<p dir='rtl' align='right'>2️⃣  ماهي. ثغرة Open Redirect باللغة العربية </p>](https://youtu.be/Pv6i1pJDnLo)
+
+<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرة HTTP Parameter Pollution  </h3>
+
+- [<p dir='rtl' align='right'>1️⃣  كيف تحدث ثغرة HTTP Parameter Pollution </p>](https://www.youtube.com/watch?v=QVZBl8yxVX0)
+- [<p dir='rtl' align='right'>2️⃣ اساسيات HTTP Parameter Pollution </p>](https://www.imperva.com/learn/application-security/http-parameter-pollution/)
+- [<p dir='rtl' align='right'>3️⃣  اساسيات HTTP Parameter Pollution باللغة العربية</p>](https://www.isecur1ty.org/مقال-جديد-شرح-تكنيك-هجوم-hpp/)
+
+<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال الثغرات المنطقية </h3>
+
+- [<p dir='rtl' align='right'>1️⃣ شرح استغلال ثغرات Logic Errors </p>](https://www.youtube.com/watch?v=RobCqW2KwGs)
+
+<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرات RCE </h3>
+
+- [<p dir='rtl' align='right'>1️⃣ كيف تقوم بيجاد ثغرات REC باللغة الانجليزية </p>](https://www.youtube.com/watch?v=5BTvTE3gEq8)
+- [<p dir='rtl' align='right'>2️⃣ شرح استغلال ثغرة RCE  باللغة العربية </p>](https://youtu.be/B3hB7XtR4GM)
+
+<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرات upload </h3>
+
+- [<p dir='rtl' align='right'>3️⃣ شرح استغلال ثغرة Upload  باللغة العربية </p>](https://youtu.be/j_09DZfqT-4)
+- [<p dir='rtl' align='right'>3️⃣ شرح استغلال ثغرة Upload  باللغة الانجليزية </p>](https://youtu.be/CmF9sEyKZNo)
