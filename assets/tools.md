@@ -297,7 +297,7 @@
     <tr>
     <td> اداة SQLMAP </td>
     <td>اداة مفتوحة المصدر تقوم بختبار واتمتة عمليات اختبار واستغلال ثغرة SQL</td>
-    <td>http://sqlmap.org<td>
+    <td>http://sqlmap.org</td>
                </tr>
        </table>  
        
