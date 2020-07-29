@@ -17,7 +17,7 @@
 - [<p dir='rtl' align='right'>🔗 الملاحظات والمصادر لشهادة OSCP </p>](https://www.youtube.com/watch?v=MQGozZzHUwQ)
 - [<p dir='rtl' align='right'>🔗 مراجعة شهادة OSCP 2020 </p>](https://www.youtube.com/watch?v=wjTt-5mfyhY)
 - [<p dir='rtl' align='right'>🔗 التحضير لشهادة OSCP </p>](https://github.com/superhero1/OSCP-Prep)
-- [<p dir='rtl' align='right'>🔗 </p>]()
+- [<p dir='rtl' align='right'>🔗 مرجع ضخم لجميع الادوات المتوقع استخدامها لاجتياز شهادة OSCP </p>](https://github.com/0x4D31/awesome-oscp)
 
   <h4 dir='rtl' align='right'>▪️  مصادر شهادة WAPT </h4>
   
