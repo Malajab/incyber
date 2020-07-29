@@ -32,4 +32,21 @@
 - [<p dir='rtl' align='right'>7️⃣ شرح متميز لثغرة XSS </p>](https://www.youtube.com/watch?v=EoaDgUgS6QA)
 - [<p dir='rtl' align='right'>8️⃣ شرح تفصيلي لثغرة XSS من المهندس ابراهيم باللغة العربية </p>](https://www.youtube.com/watch?v=xiw_O5shcK4)
 
-<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرة XSS  </h3>
+<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرة CSRF  </h3>
+
+- [<p dir='rtl' align='right'>1️⃣ شرح كيف يتم. استغلال ثغرة CSRF باللغة الانجليزية </p>](https://www.youtube.com/watch?v=eWEgUcHPle0)
+- [<p dir='rtl' align='right'>2️⃣  اساسيات استغلال ثغرة CSRF </p>](https://princetechhavenz.wordpress.com/2019/12/11/csrf-basics/)
+- [<p dir='rtl' align='right'>3️⃣ كيف تقوم بيجاد ثغرة CSRF </p>](https://www.youtube.com/watch?v=ULvf6N8AL2A)
+- [<p dir='rtl' align='right'>4️⃣ شرح كيف يتم. استغلال ثغرة CSRF باللغة العربية </p>](https://youtu.be/Sk3498DPjiw)
+
+<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرة XXE  </h3>
+
+- [<p dir='rtl' align='right'>1️⃣  فيديو شرح استغلال ثغرة XXE </p>](https://www.youtube.com/watch?v=gjm6VHZa_8s)
+- [<p dir='rtl' align='right'>2️⃣ شرح استغلال ثغرة XXE من موقع portswigger </p>](https://portswigger.net/web-security/xxe)
+
+<h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرة CSRF  </h3>
+
+- [<p dir='rtl' align='right'>1️⃣  </p>]()
+- [<p dir='rtl' align='right'>1️⃣  </p>]()
+- [<p dir='rtl' align='right'>1️⃣  </p>]()
+- [<p dir='rtl' align='right'>1️⃣  </p>]()
