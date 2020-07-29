@@ -4,16 +4,17 @@
 
 ## <h3 dir='rtl' align='right'>📚 جدول المحتويات  </h3>
 
-  - [<p dir='rtl' align='right'>🧰 الملقم Proxy  والتنصت على الشبكات </p>](#Proxy-&-Network-Sniffer)
-  - [<p dir='rtl' align='right'>🧰 الاضافات الخاصة ببرنامج Burp </p>](#Burp-Extensions) 
-  - [<p dir='rtl' align='right'>🧰 فحص خوادم تطبيقات الويب   </p>](#Recon,-OSINT-&-Discovery)
-  - [<p dir='rtl' align='right'>🧰 جمع المعلومات من خلال المصادر المفتوحة </p>](#Exploitation)
-  - [<p dir='rtl' align='right'>🧰 ادوات الفحص</p>](#Scanners)
-  - [<p dir='rtl' align='right'>🧰 اختراق الهواتف الذكية </p>](#Mobile-Hacking)
-  - [<p dir='rtl' align='right'>🧰 ادوات الاختراق  </p>](#Exploitation)
-  - [<p dir='rtl' align='right'>🧰 قائمة البرامج الخاصة بنظام كالي لينكس </p>](#Automation)
+  - [<p dir='rtl' align='right'>📢 الملقم Proxy  والتنصت على الشبكات </p>](#Proxy-&-Network-Sniffer)
+  - [<p dir='rtl' align='right'>➕ الاضافات الخاصة ببرنامج Burp </p>](#Burp-Extensions) 
+  - [<p dir='rtl' align='right'>🔎 فحص خوادم تطبيقات الويب   </p>](#Recon,-OSINT-&-Discovery)
+  - [<p dir='rtl' align='right'>🗃 جمع المعلومات من خلال المصادر المفتوحة </p>](#Exploitation)
+  - [<p dir='rtl' align='right'>🔎 ادوات الفحص</p>](#Scanners)
+  - [<p dir='rtl' align='right'>📱 اختراق الهواتف الذكية </p>](#Mobile-Hacking)
+  - [<p dir='rtl' align='right'>🧾 قائمة البرامج الخاصة بنظام كالي لينكس </p>](#Kali-tools)
+  - [<p dir='rtl' align='right'>🪓 ادوات الاختراق  </p>](#Exploitation)
+  - [<p dir='rtl' align='right'>📚 مصادر مفيدة لاختبار الاختراق  </p>](#resource)
   
-  ## <h3 dir='rtl' align='right'>🧰 خادم الوكيل Proxy  والتنصت على الشبكات </h3>
+  ## <h3 dir='rtl' align='right'>📢 خادم الوكيل Proxy  والتنصت على الشبكات </h3>
   
   <table dir='rtl' align="right">
   <tr>
@@ -55,7 +56,7 @@
   </tr>
   </table>
   
- ## <h3 dir='rtl' align='right'>🧰 اضافات برنامج Burp </h3>
+ ## <h3 dir='rtl' align='right'>➕ اضافات برنامج Burp </h3>
  <table dir='rtl' align="right">
   <tr>
     <th>اسم الاداة </th>
@@ -113,7 +114,7 @@
    </tr>
   </table>
 
-  ## <h3 dir='rtl' align='right'>🧰 فحص خوادم تطبيقات الويب </h3>
+  ## <h3 dir='rtl' align='right'>🔎 فحص خوادم تطبيقات الويب </h3>
   <table dir='rtl' align="right">
   <tr>
     <th>اسم الاداة </th>
@@ -230,7 +231,7 @@
   <td>https://www.owasp.org/index.php/Category</td>
   </table>
 
- ## <h3 dir='rtl' align='right'>🧰 جمع المعلومات من خلال المصادر المفتوحة </h3>
+ ## <h3 dir='rtl' align='right'>🗃 جمع المعلومات من خلال المصادر المفتوحة </h3>
   <table dir='rtl' align="right">
   <tr>
     <th>اسم الاداة </th>
@@ -287,7 +288,7 @@
                </tr>
        </table>   
        
-  ## <h3 dir='rtl' align='right'>🧰 ادوات فحص الشبكات </h3>
+  ## <h3 dir='rtl' align='right'>🔎 ادوات فحص الشبكات </h3>
   
   <table dir='rtl' align="right">
   <tr>
@@ -306,7 +307,7 @@
                </tr>
        </table>   
 
-  ## <h3 dir='rtl' align='right'>🧰 ادوات اختبار اختراق الهواتف الذكية </h3>
+  ## <h3 dir='rtl' align='right'>📱 ادوات اختبار اختراق الهواتف الذكية </h3>
   
   <table dir='rtl' align="right">
   <tr>
@@ -330,7 +331,7 @@
        </tr>
        </table>  
        
-   ## <h3 dir='rtl' align='right'>🧰 قائمة البرامج الخاصة بنظام كالي لينكس </h3>
+   ## <h3 dir='rtl' align='right'>🧾 قائمة البرامج الخاصة بنظام كالي لينكس </h3>
   
   <table dir='rtl' align="right">
   <tr>
@@ -388,7 +389,31 @@
        </tr>
        </table>  
        
-   ## <h3 dir='rtl' align='right'>🧰 ادوات الاختراق </h3>
+  ## <h3 dir='rtl' align='right'>📚 مصادر متعددة </h3>
+  
+  <table dir='rtl' align="right">
+  <tr>
+    <th>المصدر </th>
+    <th> الوصف </th>
+    <th> الموقع </th>
+    <tr>
+    <td> مصدر SecLists </td>
+    <td>مصدر يحتوى على قوائم متعددة تستخدم في اختبار الاختراق واصطياد الثغرات وانصح باستخدامها </td>
+    <td>https://github.com/danielmiessler/SecLists</td>
+       </tr>
+      <tr>
+    <td> اداة CyberChef </td>
+    <td>اداة غنية عن التعريف تقوم بفك وتشفير </td>
+    <td>https://gchq.github.io/CyberChef/</td>
+       </tr>
+        <tr>
+    <td> مصدر PayloadsAllTheThings  </td>
+    <td>يحتوي على جميع ما تحتاجة عند قيامك بختبار الاختراق لتطبيقات الويب</td>
+    <td>https://github.com/swisskyrepo/PayloadsAllTheThings</td>
+       </tr>
+       </table>  
+       
+  ## <h3 dir='rtl' align='right'>🪓 ادوات الاختراق </h3>
   
   <table dir='rtl' align="right">
   <tr>
