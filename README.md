@@ -16,7 +16,7 @@
   - [<p dir='rtl' align='right'> ✅ الادوات الخاصة باختبار الاختراق "PT" واصطياد الثغرات "BugBounty" </p>](/assets/tools.md)
   - [<p dir='rtl' align='right'> ✅ مختبرات الاخترق</p>](/assets/labs.md)
   - [<p dir='rtl' align='right'> ✅ منصات اصطياد الثغرات "BugBounty" المحلية والعالمية </p>](/assets/bugbountyplatfrom.md)
-  - [<p dir='rtl' align='right'>⏳ الثغرات</p>](/assets/basics.md)
+  - [<p dir='rtl' align='right'> ✅ الثغرات</p>](/assets/vulns.md)
   - [<p dir='rtl' align='right'>⏳ السكربتات والاكواد</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'>⏳ المقالات و البحوث</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'>⏳ الشهادات الاحترافية</p>](/assets/basics.md)
