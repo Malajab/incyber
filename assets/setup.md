@@ -15,7 +15,7 @@
   - [<p dir='rtl' align='right'>🖥 تثبيت لينكس افترضي بواسطة VMware باللغة الانجليزية</p>](https://youtu.be/guXsuDnAD_c)
   - [<p dir='rtl' align='right'>🖥 شرح استخدام Docker في بناء منصة لاختبار تطبيقات الويب واصطياد الثغرات باللغة الانجليزية</p>](https://www.youtube.com/watch?v=5G6tA8Q9AuQ)
   - [<p dir='rtl' align='right'>🖥 أساسيات نظام لينكس باللغة الانجليزية</p>](https://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
-  - [<p dir='rtl' align='right'>🖥 اساسيات نظام لينكس باللغة العربية من قناة تنكاوي</p>](https://youtu.be/njuF6MbedgE)
+  - [<p dir='rtl' align='right'>🖥 اساسيات نظام لينكس باللغة العربية من قناة تكناوي</p>](https://youtu.be/njuF6MbedgE)
   - [<p dir='rtl' align='right'>🖥  تثبيت نظام Parrot باللغة العربية </p>](https://youtu.be/QUpVSXwdUsc)
   - [<p dir='rtl' align='right'>🖥 تثبيت نظام Parrot باللغة الانجليزية </p>](https://youtu.be/0szBQ2_uXh0)
   - [<p dir='rtl' align='right'>🖥 تثبيت نظام archstrike باللغة الانجليزية  </p>](https://archstrike.org)
