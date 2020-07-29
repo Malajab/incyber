@@ -24,8 +24,10 @@
  - [<p dir='rtl' align='right'>🔗 التحضير لشهادة WAPT </p>](https://veteransec.com/2018/12/22/my-elearnsecurity-experience-part-1-wapt/)
 
   <h4 dir='rtl' align='right'>▪️  مصادر شهادة PTP </h4>
+  
 - [<p dir='rtl' align='right'>🔗التحضير لشهادة PTP </p>](https://youtu.be/INX2R_UJBu8)
 - [<p dir='rtl' align='right'>🔗 مقالة التحضير لشهادة PTP </p>](https://medium.com/@riccardo.ancarani94/elearnsecurity-professional-penetration-testing-v4-review-264f844d40e2)
 
   <h4 dir='rtl' align='right'>▪️  مصادر شهادة PTS </h4>
+  
 - [<p dir='rtl' align='right'>🔗التحضير لشهادة PTS </p>](https://twitter.com/MAlajab/status/1033057551770902529?s=20)
