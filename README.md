@@ -13,7 +13,7 @@
   
   - [<p dir='rtl' align='right'> ✅  الاساسيات في اختبار الاختراق واصطياد الثغرات</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'> ✅ تثبيت انظمة التشغيل الخاصة باختبار الاختراق  </p>](/assets/setup.md)
-  - [<p dir='rtl' align='right'> ✅ الادوات الخاصة باختبار الاختراق "PT" واصطياد الثغرات"BugBounty" </p>](/assets/tools.md)
+  - [<p dir='rtl' align='right'> ✅ الادوات الخاصة باختبار الاختراق "PT" واصطياد الثغرات "BugBounty" </p>](/assets/tools.md)
   - [<p dir='rtl' align='right'>⏳ مختبرات الاخترق</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'>⏳ الثغرات</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'>⏳ السكربتات والاكواد</p>](/assets/basics.md)
