@@ -8,10 +8,10 @@
   - [<p dir='rtl' align='right'>🧰 الاضافات الخاصة ببرنامج Burp </p>](#Burp-Extensions) 
   - [<p dir='rtl' align='right'>🧰 فحص خوادم تطبيقات الويب   </p>](#Recon,-OSINT-&-Discovery)
   - [<p dir='rtl' align='right'>🧰 جمع المعلومات من خلال المصادر المفتوحة </p>](#Exploitation)
-  - [<p dir='rtl' align='right'>🧰 ادوات الاختراق  </p>](#Exploitation)
   - [<p dir='rtl' align='right'>🧰 ادوات الفحص</p>](#Scanners)
   - [<p dir='rtl' align='right'>🧰 اختراق الهواتف الذكية </p>](#Mobile-Hacking)
-  - [<p dir='rtl' align='right'>🧰 اتممت اختبار الاختراق</p>](#Automation)
+  - [<p dir='rtl' align='right'>🧰 ادوات الاختراق  </p>](#Exploitation)
+  - [<p dir='rtl' align='right'>🧰 قائمة البرامج الخاصة بنظام كالي لينكس</p>](#Automation)
   
   ## <h3 dir='rtl' align='right'>🧰 خادم الوكيل Proxy  والتنصت على الشبكات </h3>
   
