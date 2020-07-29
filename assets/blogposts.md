@@ -93,7 +93,6 @@
 - [<p dir='rtl' align='right'>🔗 المرجع الرسمي لاستغلال ثغرة HTTP Desync  </p>](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
 - [<p dir='rtl' align='right'>🔗 كيف تم استغلال ثغرة HTTP Desync في موقع vpn.lob.com </p>](https://hackerone.com/reports/694604)
 - [<p dir='rtl' align='right'>🔗 تقرير عن استغلال ثغرة HTTP Desync لسحب حسابات المستخدمين الاخرين على منصة slack </p>](https://hackerone.com/reports/737140)
-- [<p dir='rtl' align='right'>🔗  </p>]()
 
 <h4 dir='rtl' align='right'>▪️ ثغرة رفع الملفات </h4>
 
