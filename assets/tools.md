@@ -33,6 +33,12 @@
     <td>www.owasp.org</td>
   </tr> 
       <tr>
+    <td> اداة netsniff-ng </td> 
+    <td> تقوم الاداة بعتراض الاتصال وقراءة البيانات بشكل مفصل </td>
+    <td>لغة C, C++ </td>
+    <td>https://github.com/netsniff-ng/netsniff-ng</td>
+  </tr> 
+        <tr>
     <td> اداة Wireshark </td> 
     <td> تقوم الاداة بعتراض الاتصال وقراءة البيانات بشكل مفصل </td>
     <td>لغة C, C++ </td>
@@ -189,5 +195,10 @@
   <td> اداة تقوم بحصر وجمع المعلومات عن النطاقات الفرعية للموقع المستهدف </td>
   <td> لغة Perl  </td>
   <td>https://github.com/fwaeytens/dnsenum/</td>
+      </tr>
+  <td> اداة  dnsmap </td>
+  <td>  اداة تقوم بحصر وجمع المعلومات عن النطاقات الفرعية للموقع المستهدف من غير التواصل معه بشكل مباشر </td>
+  <td> غير معروف </td>
+  <td>https://github.com/makefu/dnsmap/</td>
   </table>
 
