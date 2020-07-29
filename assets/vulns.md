@@ -20,6 +20,9 @@
 - [<p dir='rtl' align='right'>9️⃣ دليل ارشادي لاستغلال ثغرة template injection </p>](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md)
 - [<p dir='rtl' align='right'>🔟 دليل ارشادي لاستغلال ثغرة XXE </p>](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md)
 - [<p dir='rtl' align='right'>1️⃣1️⃣ دليل ارشادي لاستغلال ثغرة CRLF Injection </p>](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md)
+- [<p dir='rtl' align='right'>1️⃣2️⃣ دليل ارشادي لاستغلال ثغرة Insecure deserialization</p>](https://portswigger.net/web-security/deserialization)
+- [<p dir='rtl' align='right'>1️⃣3️⃣ دليل ارشادي لاستغلال ثغرة Information disclosure vulnerabilities</p>](https://portswigger.net/web-security/information-disclosure)
+- [<p dir='rtl' align='right'>1️⃣4️⃣ دليل ارشادي لاستغلال ثغرة HTTP request smuggling</p>](https://portswigger.net/web-security/request-smuggling)
 
 <h3 dir='rtl' align='right'>🔽💉 مصادر استغلال ثغرة XSS  </h3>
 
