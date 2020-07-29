@@ -39,6 +39,13 @@
     <td>https://github.com/netsniff-ng/netsniff-ng</td>
   </tr> 
         <tr>
+      <tr>
+    <td> اداة tcpdump/libpcap </td> 
+    <td> تقوم الاداة بعتراض الاتصال وقراءة البيانات بشكل مفصل </td>
+    <td>لغة C, C++ </td>
+    <td>http://www.tcpdump.org/</td>
+  </tr> 
+        <tr>
     <td> اداة Wireshark </td> 
     <td> تقوم الاداة بعتراض الاتصال وقراءة البيانات بشكل مفصل </td>
     <td>لغة C, C++ </td>
