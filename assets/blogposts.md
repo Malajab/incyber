@@ -3,33 +3,24 @@
 <h3 dir='rtl' align='right'> 🧪 بيئة مختبرات اختبار الاختراق "PT" و اصطياد الثغرات "BugBounty"</h3>
 
 ## <h3 dir='rtl' align='right'>📚 جدول المحتويات  </h3>
-
-  - [<p dir='rtl' align='right'>🔘 تقارير المكافآت من منصات مختلفة </p>](#web-pentest)
-  - [<p dir='rtl' align='right'>🔘 دورة أمان الويب من ستانفورد ( Stanford CS253 Web Security) </p>](#Stanford-CS-253-Web-Security) 
-  - [<p dir='rtl' align='right'>🔘 أساسيات بروتوكول HTTP </p>](#HTTP-)
-  - [<p dir='rtl' align='right'>🔘 أساسيات الشبكات‪  (Foundations of Networking )‬ </p>](#Network-)
-  - [<p dir='rtl' align='right'>🔘 البرمجة</p>](#Programming-)
-  - [<p dir='rtl' align='right'>🔘أساسيات الحوسبة Computing Fundamentals </p>](#Computing-Fundamentals)
-  - [<p dir='rtl' align='right'>🔘اتممت اختبار الاختراق</p>](#Automation)
-  
   
 ### [<p dir='rtl' align='right'> 📖 تقارير المكافآت من منصات مختلفة </p>](#)
     
-- [<p dir='rtl' align='right'> نصائح البداية في مجال اختبار الاختراق واصطياد الثغرات</p>](#)
-- [<p dir='rtl' align='right'>🔽 اكتشاف ثغرات XSS</p>](#)
+- [<p dir='rtl' align='right'>🔘 نصائح البداية في مجال اختبار الاختراق واصطياد الثغرات</p>](#)
+- [<p dir='rtl' align='right'>🔘 🔽 اكتشاف ثغرات XSS</p>](#)
   - [<p dir='rtl' align='right'> ◀️ ثغرة XSS DOM</p>](#)
   - [<p dir='rtl' align='right'> ◀️ ثغرة XSS Stored </p>](#)
-- [<p dir='rtl' align='right'>ثغرة SSRF</p>](#)
-- [<p dir='rtl' align='right'>اكتشاف الثغرات</p>](#)
-- [<p dir='rtl' align='right'>ثغرات مصادقة الحسابات وتخطيها</p>](#)
-- [<p dir='rtl' align='right'>ثغرات حقن الاستعلامات SQL</p>](#)
-- [<p dir='rtl' align='right'>ثغرة HTTP Desync</p>](#)
-- [<p dir='rtl' align='right'>ثغرات رفع الملفات</p>](#)
-- [<p dir='rtl' align='right'>ثغرات IDOR </p>](#)
-- [<p dir='rtl' align='right'>ثغرات RCE </p>](#)
-- [<p dir='rtl' align='right'>الطرق الصحيحة لعمليات الفحص</p>](#)
-- [<p dir='rtl' align='right'>ثغرات API </p>](#)
-- [<p dir='rtl' align='right'>ثغرات GraphQL </p>](#)
+- [<p dir='rtl' align='right'>🔘 ثغرة SSRF</p>](#)
+- [<p dir='rtl' align='right'>🔘 اكتشاف الثغرات</p>](#)
+- [<p dir='rtl' align='right'>🔘 ثغرات مصادقة الحسابات وتخطيها</p>](#)
+- [<p dir='rtl' align='right'>🔘 ثغرات حقن الاستعلامات SQL</p>](#)
+- [<p dir='rtl' align='right'>🔘 ثغرة HTTP Desync</p>](#)
+- [<p dir='rtl' align='right'>🔘 ثغرات رفع الملفات</p>](#)
+- [<p dir='rtl' align='right'>🔘 ثغرات IDOR </p>](#)
+- [<p dir='rtl' align='right'>🔘 ثغرات RCE </p>](#)
+- [<p dir='rtl' align='right'>🔘 الطرق الصحيحة لعمليات الفحص</p>](#)
+- [<p dir='rtl' align='right'>🔘 ثغرات API </p>](#)
+- [<p dir='rtl' align='right'>🔘 ثغرات GraphQL </p>](#)
 
 <h4 dir='rtl' align='right'>▪️  نصائح البداية في مجال اختبار الاختراق واصطياد الثغرات </h4>
 
@@ -83,3 +74,58 @@
 
 - [<p dir='rtl' align='right'>🔗 تقرير يتحدث عن كيف يتم استغلال التوكن وسرقته.  </p>](https://medium.com/@rootxharsh_90844/abusing-feature-to-steal-your-tokens-f15f78cebf74)
 - [<p dir='rtl' align='right'>🔗 تقرير يتحدث عن كيفية تخطي التحقق الثنائي في موقع Razer  </p>](https://medium.com/bugbountywriteup/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572?)
+- [<p dir='rtl' align='right'>🔗 كيف تم تخطي المصادقة في موقع GitHub </p>](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html)
+- [<p dir='rtl' align='right'>🔗 كيف تم سحب النطاق الفرعي بعد استغلال ثغرة في المصادقة </p>](https://hackerone.com/reports/335330)
+
+<h4 dir='rtl' align='right'>▪️  ثغرات استغلال استعلامات SQL </h4>
+
+- [<p dir='rtl' align='right'>🔗 تقرير يتحدث عن استغلال SQL مع الوقت باستخدام GRAPQL </p>](https://medium.com/bugbountywriteup/time-based-blind-sql-injection-in-graphql-39a25a1dfb3c)
+- [<p dir='rtl' align='right'>🔗 استغلال ثغرة SQL لاستهداف موقع ستاربكس وسحب معلومات حساسة </p>](https://hackerone.com/reports/531051)
+- [<p dir='rtl' align='right'>🔗 كيف تقوم بالبحث عن ثغرة SQL </p>](https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76?)
+- [<p dir='rtl' align='right'>🔗 كيف تم استهدف موقع التعدين للعملات الرقمية strynx بثغرة SQL </p>](https://strynx.org/insecure-crypto-code-execution/)
+- [<p dir='rtl' align='right'>🔗 الحقن الاعمى او blind SQL في موقع mail.ru </p>](https://hackerone.com/reports/786044)
+- [<p dir='rtl' align='right'>🔗 محتوى تعليمي عن اختراق المواقع المرتبة ب SQL </p>](https://blog.netspi.com/how-to-hack-database-links-in-sql-server/)
+
+
+<h4 dir='rtl' align='right'>▪️ ثغرة HTTP Desync </h4>
+
+- [<p dir='rtl' align='right'>🔗 المرجع الرسمي لاستغلال ثغرة HTTP Desync  </p>](https://portswigger.net/research/http-desync-attacks-request-smuggling-reborn)
+- [<p dir='rtl' align='right'>🔗 كيف تم استغلال ثغرة HTTP Desync في موقع vpn.lob.com </p>](https://hackerone.com/reports/694604)
+- [<p dir='rtl' align='right'>🔗 تقرير عن استغلال ثغرة HTTP Desync لسحب حسابات المستخدمين الاخرين على منصة slack </p>](https://hackerone.com/reports/737140)
+- [<p dir='rtl' align='right'>🔗  </p>]()
+
+<h4 dir='rtl' align='right'>▪️ ثغرة رفع الملفات </h4>
+
+- [<p dir='rtl' align='right'>🔗 كيف تم رفع ابواب خلفية في موقع ستاربكس </p>](https://hackerone.com/reports/506646)
+- [<p dir='rtl' align='right'>🔗 كيف تم حقن خوادم فيسبوك لاستخراج بعض البيانات الحساسة </p>](https://www.vulnano.com/2019/03/facebook-messenger-server-random-memory.html)
+- [<p dir='rtl' align='right'>🔗 استغلال ثغرة رفع الملفات بواسطة XML </p>](https://0xatul.github.io/posts/2020/02/external-xml-entity-via-file-upload-svg/)
+
+<h4 dir='rtl' align='right'>▪️ ثغرة IDOR </h4>
+
+- [<p dir='rtl' align='right'>🔗 تقرير يتحدث عن سحب الحسابات لموقع airbnb  </p>](https://www.indoappsec.in/2019/12/airbnb-steal-earning-of-airbnb-hosts-by.html)
+- [<p dir='rtl' align='right'>🔗 دمج ثغرتي IDOR & graphql لاستخراج معلومات حساسة </p>](https://medium.com/@R0X4R/graphql-idor-leads-to-information-disclosure-175eb560170d)
+- [<p dir='rtl' align='right'>🔗 كيف تم استغلال ثغرة IDOR وتحويلها الى RCE </p>](https://www.rahulr.in/2019/10/idor-to-rce.html?m=1)
+- [<p dir='rtl' align='right'>🔗 تقرير يتحدث عن اضافة على برمجية Burp لايجاد ثغرات IDOR بشكل تلقائي </p>](https://medium.com/cyberverse/automating-burp-to-find-idors-2b3dbe9fa0b8)
+
+<h4 dir='rtl' align='right'>▪️ ثغرة RCE </h4>
+
+- [<p dir='rtl' align='right'>🔗 كيف يتم استغلال ثغرة RCE </p>](https://medium.com/@abhishake100/my-first-rce-stressed-employee-gets-me-2x-bounty-c4879c277e37)
+- [<p dir='rtl' align='right'>🔗 تقرير يتحدث عن خطورة ثغرات RCE </p>](https://medium.com/@andrewaeva_55205/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871)
+
+<h4 dir='rtl' align='right'>▪️ الطرق الصحيحة لعمليات الفحص </h4>
+
+- [<p dir='rtl' align='right'>🔗 كيف يتم فحص النطاقات الفرعية من خلال شهادات SSL المتربطة بها.</p>](https://www.r00tpgp.com/2020/01/subdomain-recon-using-certificate.html?m=0)
+- [<p dir='rtl' align='right'>🔗 ملاحظات تم جمعها بعد اللقاء مع الباحث nahamsec  </p>](https://mavericknerd.github.io/knowledgebase/nahamsec/recon_session_1/)
+- [<p dir='rtl' align='right'>🔗 اشهر ١٠ ادوات للفحص  </p>](https://medium.com/@hackbotone/10-recon-tools-for-bug-bounty-bafa8a5961bd)
+- [<p dir='rtl' align='right'>🔗 كيف تقوم بانشاء آلية لفحص النطاقات الفرعية بالشكل الصحيح </p>](https://failednuke.info/2020/recon-create-a-methodology-and-start-your-subdomain-enumeration/)
+- [<p dir='rtl' align='right'>🔗   الاستخدام الصحيح عن استخدام NMAP </p>](https://securityqueens.co.uk/they-see-me-scannin-they-hatin-a-beginners-guide-to-nmap/)
+
+<h4 dir='rtl' align='right'>▪️ ثغرات API  </h4>
+
+- [<p dir='rtl' align='right'>🔗 مستودع نصائح خاص بثغرات API </p>](https://github.com/smodnix/31-days-of-API-Security-Tips)
+
+<h4 dir='rtl' align='right'>▪️ ثغرات GraphQL  </h4>
+
+- [<p dir='rtl' align='right'>🔗 تقرير يتحدث عن سحب الملاحظات واستخراجها من احد الخوادم بستخدام ثغرة GRAPHQL </p>](https://hackerone.com/reports/633001)
+- [<p dir='rtl' align='right'>🔗 استغلال ثغرة GraphQl لسحب وسرقة اي عنوان  </p>](https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417)
+- [<p dir='rtl' align='right'>🔗 كيف يتم استخدام ثغرة GraphQL لمعرفة اي بريد الالكتروني لاي مستخدم من خلال اسم المستخدم فقط </p>](https://hackerone.com/reports/792927)
