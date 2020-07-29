@@ -18,7 +18,7 @@
   - [<p dir='rtl' align='right'> ✅ منصات اصطياد الثغرات "BugBounty" المحلية والعالمية </p>](/assets/bugbountyplatfrom.md)
   - [<p dir='rtl' align='right'> ✅ الثغرات</p>](/assets/vulns.md)
   - [<p dir='rtl' align='right'> ✅ السكربتات والاكواد</p>](/assets/code.md)
-  - [<p dir='rtl' align='right'>⏳ المقالات و البحوث</p>](/assets/basics.md)
+  - [<p dir='rtl' align='right'>⏳ المقالات و البحوث و اللقاءات وتقارير اصطياد الثغرات BugBounty </p>](/assets/basics.md)
   - [<p dir='rtl' align='right'>⏳ الشهادات الاحترافية</p>](/assets/basics.md)
   
 
