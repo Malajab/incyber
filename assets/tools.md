@@ -114,6 +114,16 @@
   <td>لغة الجافا </td>
   <td>https://portswigger.net</td>
    </tr>
+   <td> اضافة BurpParser  </td>
+  <td> استخراج جميع الروابط الخاصة بالهدف وجمعها في ملف XML لتسهيل عمل التحليل اليدوي </td>
+  <td>لغة python </td>
+  <td>https://github.com/billdeitrick/burpparser</td>
+   </tr>
+   <td> اضافة BurpSuite_payloads  </td>
+  <td> مجموعة من الادوات التي تفيدك في عملية استخدام "Intruder" </td>
+  <td>لا يوجد </td>
+  <td>https://github.com/thegsoinfosec/BurpSuite_payloads</td>
+   </tr>
   </table>
 
   ## <h3 dir='rtl' align='right'>🔎 فحص خوادم تطبيقات الويب </h3>
