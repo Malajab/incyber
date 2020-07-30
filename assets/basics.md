@@ -54,7 +54,7 @@
   
 - [<p dir='rtl' align='right'>🔗   دورة من موقع Codecademy "باللغة الانجليزية" </p>](https://www.codecademy.com/learn/learn-html)
 - [<p dir='rtl' align='right'>🔗  دورة "باللغة العربية" من قناة Hamid Oumoumen </p>](https://youtu.be/8p2_FqT7LxE)
-- [<p dir='rtl' align='right'>🔗   W3schools HTML "باللغة الإنجليزية" </p>](https://www.w3schools.com/html/)
+- [<p dir='rtl' align='right'>🔗   دورة من موقع W3schools  </p>](https://www.w3schools.com/html/)
 
 <h5 dir='rtl' align='right'>▪️ لغة Javascript  </h5>
 
@@ -62,7 +62,7 @@
  
 - [<p dir='rtl' align='right'>🔗   دورة من موقع Codecademy "باللغة الانجليزية" </p>](https://www.codecademy.com/learn/introduction-to-javascript )
 - [<p dir='rtl' align='right'>🔗   دورة من موقع freeCodeCamp "باللغة الانجليزية"</p>](https://www.freecodecamp.org/learn)
-- [<p dir='rtl' align='right'>🔗   W3schools JavaScript "باللغة الإنجليزية" </p>](https://www.w3schools.com/js/default.asp)
+- [<p dir='rtl' align='right'>🔗 دورة من موقع W3schools  </p>](https://www.w3schools.com/js/default.asp)
 - [<p dir='rtl' align='right'>🔗   دورة "باللغة العربية" من قناة Elzero Web School </p>](https://youtu.be/eKuNnpWhm7c)
 </p>
 
