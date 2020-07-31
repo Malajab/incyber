@@ -65,33 +65,47 @@
     <td> # 9 </td> 
     <td>ماهي الشهادات التي تسهل علي للحصول على شهادة OSCP ؟</td>
     <td> البداية هي كالتالي: شهادة Network+ ثم شهادة Security + ثم شهادة PTS ثم قم بعد ذلك بتعلم بعض لغات البرمجة مثل PHP و HTML بعد ذلك تستطيع تحديد مسارك بسهولة</td>
-    <td></td>
+    <td>لا يوجد</td>
   </tr>  
     </tr>  
       <tr>
     <td> # 10 </td> 
-    <td></td>
-    <td> </td>
-    <td></td>
+    <td>هل شهادات ميكرسوفت ستفيدني في امن المعلومات ؟</td>
+    <td>نعم تفيدك كثيراً خصوصاً مايتعلم شهادات خوادم الويندوز وغيرها. </td>
+    <td>لا يوجد</td>
   </tr>  
     </tr>  
       <tr>
     <td> # 11 </td> 
-    <td></td>
-    <td> </td>
-    <td></td>
+    <td>هل استطيع دخول ماجستير امن معلومات من تخصص حاسب في البكالوريوس ؟</td>
+    <td> نعم تستطيع</td>
+    <td>لا يوجد</td>
   </tr>  
     </tr>  
       <tr>
     <td> # 12 </td> 
-    <td></td>
+    <td>دورات في مجال الامن السيبراني ؟</td>
+    <td>دائماً ارشح البدأ في التعرف على الامن السيبراني من خلال دورة المذكورة في المصدر </td>
+    <td>1- https://www.pluralsight.com/browse/information-cyber-security 2- https://www.coursera.org/specializations/intro-cyber-security</td>
+  </tr>  
+  </tr>  
+      <tr>
+    <td> # 13 </td> 
     <td> </td>
-    <td></td>
+    <td> </td>
+    <td>لا يوجد</td>
   </tr>  
     </tr>  
       <tr>
     <td> # 13 </td> 
-    <td></td>
     <td> </td>
-    <td></td>
+    <td> </td>
+    <td>لا يوجد</td>
+  </tr>  
+    </tr>  
+      <tr>
+    <td> # 13 </td> 
+    <td> </td>
+    <td> </td>
+    <td>لا يوجد</td>
   </tr>  
