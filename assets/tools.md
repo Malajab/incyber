@@ -164,7 +164,7 @@
     </tr>
   <td> اضافة BuiltWith  </td>
   <td>اضافة على المتصفح حيث تستطيع هذة الاداة التعرف على اكثر من ٨١ الف تطبيق وبرمجية والهدف منها هو اعطائك معلومات اكثر  عن المنصة المستخدمة في الموقع المستهدف  </td>
-  <td> غير معروف </td>
+  <td> لغة JavaScript </td>
   <td>https://builtwith.com</td>
     </tr>
     <td>  اداة findomain  </td>
@@ -204,12 +204,12 @@
     </tr>
   <td> اداة  DNSDumpster  </td>
   <td> اداة متميزة في حصر وجمع النطاقات الفرعية للموقع المستهدف </td>
-  <td> غير معروف  </td>
+  <td> لغة JavaScript  </td>
   <td>https://dnsdumpster.com/</td>
       </tr>
   <td> اداة  masscan  </td>
   <td> اداة تقوم بعمليات فحص للعناوين IP والمنفاذ بشكل سريع جداً </td>
-  <td> غير معروف  </td>
+  <td> لغة C  </td>
   <td>https://github.com/robertdavidgraham/masscan</td>
         </tr>
   <td> اداة  dnsenum   </td>
@@ -219,7 +219,7 @@
       </tr>
   <td> اداة  dnsmap </td>
   <td>  اداة تقوم بحصر وجمع المعلومات عن النطاقات الفرعية للموقع المستهدف من غير التواصل معه بشكل مباشر </td>
-  <td> غير معروف </td>
+  <td> لغة C </td>
   <td>https://github.com/makefu/dnsmap/</td>
         </tr>
   <td> اداة  SSLyze </td>
