@@ -207,4 +207,14 @@
     <td>تستطيع الحصول عليه من هنا </td>
     <td>https://whatismyipaddress.com/ </td>
 
-
+        </tr>  
+      <tr>
+    <td> # 30 </td> 
+    <td> كيف ابني نظام مراقبة اتدرب عليه في مراقبة التهديدات  </td>
+    <td>تستطيع الحصول عليه من هنا </td>
+    <td>https://docs.securityonion.net/en/16.04/ </td>
+          <tr>
+    <td> # 31 </td> 
+    <td> كيف ابني لوحة مراقبة تفيدني في عملية رصد التهديدات </td>
+    <td>تستطيع الحصول عليه من هنا </td>
+    <td>https://github.com/wazuh/wazuh-kibana-app </td>
