@@ -139,43 +139,72 @@
   </tr> 
       </tr>  
       <tr>
-    <td> # 19 </td> 
-    <td>  </td>
-    <td> </td>
-    <td> </td>
+    <td> # 20 </td> 
+    <td> ابحث لي عن مبرمج مستقل او شركة او مصمم ؟ </td>
+    <td>تفضل هنا تغريدة تجمع تحتها جميع الافراد وبعض الشركات </td>
+    <td>https://twitter.com/malajab/status/890190522106753024?lang=ar </td>
   </tr> 
         </tr>  
       <tr>
-    <td> # 19 </td> 
-    <td>  </td>
-    <td> </td>
-    <td> </td>
+    <td> # 21 </td> 
+    <td>  ماهي لغات البرمجة المطلوبة في امن المعلومات ؟ </td>
+    <td> جميع لغات البرمجة مطلوبة ولكن الاكثر طلب على python و powerShell  و PHP و asp </td>
+    <td>لا يوجد </td>
   </tr> 
         </tr>  
       <tr>
-    <td> # 19 </td> 
-    <td>  </td>
-    <td> </td>
-    <td> </td>
+    <td> # 22 </td> 
+    <td> ماهي افضل الادوات المطلوبة في عمليات اختبار الاختراق ؟ </td>
+    <td> تفضل هنا افضل تجميعه شاهدتها عن ادوات الاختراق. </td>
+    <td>https://github.com/Malajab/incyber/blob/master/assets/tools.md </td>
   </tr> 
         </tr>  
       <tr>
-    <td> # 19 </td> 
-    <td>  </td>
-    <td> </td>
-    <td> </td>
+    <td> # 23 </td> 
+    <td> ماهي افضل الادوات المطلوبة في عمليات تحليل الفايروسات ؟ </td>
+    <td> تفضل هنا افضل تجميعه شاهدتها عن ادوات تحليل الفايروسات </td>
+    <td>https://github.com/rshipp/awesome-malware-analysis  </td>
   </tr> 
         </tr>  
       <tr>
-    <td> # 19 </td> 
-    <td>  </td>
-    <td> </td>
-    <td> </td>
+    <td> # 24 </td> 
+    <td> ماهي افضل الادوات المطلوبة في عمليات جمع المعلومات الاستخباراتية ؟ </td>
+    <td>تفضل هنا افضل تجميعه شاهدتها عن ادوات جمع المعلومات الاسخبارتية </td>
+    <td>https://github.com/hslatman/awesome-threat-intelligence </td>
   </tr> 
         </tr>  
       <tr>
-    <td> # 19 </td> 
-    <td>  </td>
-    <td> </td>
-    <td> </td>
+    <td> # 25 </td> 
+    <td> ماهي افضل شركة VPN ؟ </td>
+    <td>الافضل ان تقوم بتركيب VPN بنفسك وهنا الخطوات لاستجار خادم من دجتل اوشن ثم تركيب VPN  من هنا </td>
+    <td>https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04 </td>
   </tr> 
+         </tr>  
+      <tr>
+    <td> # 26 </td> 
+    <td> ماهو افضل مراجع لشهادة Security+ ؟ </td>
+    <td>تفضل الرابط في المصدر  </td>
+    <td> https://www.youtube.com/watch?v=iOS6QAepBUY </td>
+  </tr> 
+        </tr>  
+      <tr>
+    <td> # 27 </td> 
+    <td>  كيف تمر البيانات داخل الشبكة ؟ </td>
+    <td> تفضل قام بشرحها احد المختصين بفيديو جميل من هنا </td>
+    <td> https://youtu.be/3mQK8uyKrFU </td>
+  </tr> 
+        </tr>  
+      <tr>
+    <td> # 28 </td> 
+    <td>هل يوجد شهادات اونلاين معتمدة في السعودية؟</td>
+    <td>نعم يوجد في موقع هدف </td>
+    <td>https://www.hrdf.org.sa/Program/401/دعم_الشهادات_المهنية_الاحترافية?bc=2 </td>
+  </tr> 
+        </tr>  
+      <tr>
+    <td> # 29 </td> 
+    <td> كيف اعرف IP الخارجي لي او الحقيقي  </td>
+    <td>تستطيع الحصول عليه من هنا </td>
+    <td>https://whatismyipaddress.com/ </td>
+
+
