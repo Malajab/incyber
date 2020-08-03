@@ -23,6 +23,7 @@
   - [<p dir='rtl' align='right'> ✅ المقالات و البحوث و اللقاءات وتقارير اصطياد الثغرات BugBounty </p>](/assets/blogposts.md)
   - [<p dir='rtl' align='right'> ✅ الشهادات الاحترافية</p>](/assets/certs.md)
   - [<p dir='rtl' align='right'> ✅  اسئلة و اجوبة للمبتدئين</p>](/questions.md)
+  - [<p dir='rtl' align='right'> ✅ نماذج وخطوات رفع تقارير مكافآة الثغرات BugBouty - Report</p>](/Template/bug-report.md)
   
 
 ## <h3 dir='rtl' align='right'>📤 الاقتراحات  </h3>
