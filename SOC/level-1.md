@@ -202,7 +202,7 @@
 
   </tr>  
         <tr>
-   
+          </table>
    
  <h4 dir='rtl' align='right'>▪️ المعارف </h4>
    
