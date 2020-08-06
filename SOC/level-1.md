@@ -406,6 +406,47 @@
           </table>
 
 
+ <h4 dir='rtl' align='right'>▪️ المهارات </h4>
+   
+>  <p dir='rtl' align='right'> ان المهارات المذكورة ادناة هي مهارات المقتبسة من اطار سيوف الخاص بالهيئة الوطنية للامن السيبراني
+</p>
+
+  <table dir='rtl' align="right">
+  <tr>
+    <th>رمز المهارة </th>
+    <th> الوصف </th>
+    <tr>
+    <td>  </td> 
+    <td></td>
+
+  </tr>  
+      <tr>
+    <td>  </td> 
+    <td></td>
+    <tr>
+    <td></td> 
+    <td></td>
+  </tr>  
+      <tr>
+    <td>  </td> 
+    <td></td>
+    <tr>
+    <td></td> 
+    <td></td>
+  </tr>  
+      <tr>
+    <td>  </td> 
+    <td></td>
+    <tr>
+    <td></td> 
+    <td></td>
+  </tr>  
+      <tr>
+    <td>  </td> 
+    <td></td>
+    <tr>
+    <td></td> 
+    <td></td>
 
 
  <h4 dir='rtl' align='right'> لا يزال العمل جاري على هذه الصفحة </h4>
