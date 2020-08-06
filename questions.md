@@ -14,7 +14,7 @@
     <td> # 1 </td> 
     <td> لدي مقابلة في الشبكات ماهي اكثر الاسئلة ؟</td>
     <td>تفضل الرابط في المصادر اكثر الاسئلة وحتماً ستستفيد منها </td>
-    <td>shorturl.at/kqLY5</td>
+    <td>https://bit.ly/30xAYyX</td>
   </tr>  
       <tr>
     <td> # 2 </td> 
@@ -32,7 +32,7 @@
     <td> # 4 </td> 
     <td>افضل دورة اونلاين python ؟</td>
     <td>الاجابة في المصدر رابطين احدهم بالانجليزي الاخر باللغة العربية </td>
-    <td>1- shorturl.at/adg49 2-shorturl.at/xBDLV </td>
+    <td>1-https://bit.ly/2Xw4Idi 2-https://bit.ly/3gz33LL </td>
   </tr>  
       <tr>
     <td> # 5 </td> 
@@ -51,7 +51,7 @@
     <td> # 7 </td> 
     <td>اماكن دورات برمجة؟</td>
     <td>انصح دائماً بالتعليم الذاتي وعدم الذهاب للمعهد وان واجهتك مشكلة قم بالبحث عنها بشكل مفصل وستجد الحل حتماً اتمنى زيارة صفحة البرمجة والسكربتات   </td>
-    <td>shorturl.at/oFHQ7</td>
+    <td>https://bit.ly/3fvgtHb</td>
   </tr>  
     </tr>  
       <tr>
@@ -86,21 +86,21 @@
     <td> # 12 </td> 
     <td>دورات في مجال الامن السيبراني ؟</td>
     <td>دائماً ارشح البدأ في التعرف على الامن السيبراني من خلال دورة المذكورة في المصدر </td>
-    <td>1- shorturl.at/blvHU 2- shorturl.at/cuH58</td>
+    <td>1-https://bit.ly/3ieqiLv 2-https://bit.ly/30xbgdF</td>
   </tr>  
   </tr>  
       <tr>
     <td> # 13 </td> 
     <td> ماهي الاماكن المعتمدة لاختبار الشهادات </td>
     <td>تفضل الرابط في المصدر فيه معظم الشهادات واماكن تواجدها ومن خلالها تستطيع الحجز كذلك </td>
-    <td>shorturl.at/qxOVX/</td>
+    <td>https://bit.ly/3gELY3a/</td>
   </tr>  
     </tr>  
       <tr>
     <td> # 14 </td> 
     <td>ماهي الجامعات التي تقدم تخصص امن معلومات في السعودية </td>
     <td>تفضل الرابط في المصدر</td>
-    <td>shorturl.at/nyTW9</td>
+    <td>https://bit.ly/2EWUDQp</td>
   </tr>  
     </tr>  
       <tr>
@@ -135,14 +135,14 @@
     <td> # 19 </td> 
     <td> ابحث عن موظف حر ينجز لي مهام محدده هل تعلم لي احدهم؟ </td>
     <td>تفضل هنا جميع الافراد الجاهزين لاي وظيفة برمجة تصميم امن معلومات شبكات صيانه وغيرها </td>
-    <td>shorturl.at/dyNSX </td>
+    <tdhttps://bit.ly/3kjNXft </td>
   </tr> 
       </tr>  
       <tr>
     <td> # 20 </td> 
     <td> ابحث لي عن مبرمج مستقل او شركة او مصمم ؟ </td>
     <td>تفضل هنا تغريدة تجمع تحتها جميع الافراد وبعض الشركات </td>
-    <td>shorturl.at/doX48 </td>
+    <td>https://bit.ly/30xbSQv</td>
   </tr> 
         </tr>  
       <tr>
@@ -156,35 +156,35 @@
     <td> # 22 </td> 
     <td> ماهي افضل الادوات المطلوبة في عمليات اختبار الاختراق ؟ </td>
     <td> تفضل هنا افضل تجميعه شاهدتها عن ادوات الاختراق. </td>
-    <td>shorturl.at/nuWZ4 </td>
+    <td>https://bit.ly/2XyG0ZS </td>
   </tr> 
         </tr>  
       <tr>
     <td> # 23 </td> 
     <td> ماهي افضل الادوات المطلوبة في عمليات تحليل الفايروسات ؟ </td>
     <td> تفضل هنا افضل تجميعه شاهدتها عن ادوات تحليل الفايروسات </td>
-    <td>shorturl.at/qrEHU </td>
+    <td>https://bit.ly/2C8nwbm</td>
   </tr> 
         </tr>  
       <tr>
     <td> # 24 </td> 
     <td> ماهي افضل الادوات المطلوبة في عمليات جمع المعلومات الاستخباراتية ؟ </td>
     <td>تفضل هنا افضل تجميعه شاهدتها عن ادوات جمع المعلومات الاسخبارتية </td>
-    <td>shorturl.at/bemsO </td>
+    <td>https://bit.ly/3gy9bUD</td>
   </tr> 
         </tr>  
       <tr>
     <td> # 25 </td> 
     <td> ماهي افضل شركة VPN ؟ </td>
     <td>الافضل ان تقوم بتركيب VPN بنفسك وهنا الخطوات لاستجار خادم من دجتل اوشن ثم تركيب VPN  من هنا </td>
-    <td>shorturl.at/izA28 </td>
+    <td>https://do.co/31qkAPW</td>
   </tr> 
          </tr>  
       <tr>
     <td> # 26 </td> 
     <td> ماهو افضل مراجع لشهادة Security+ ؟ </td>
     <td>تفضل الرابط في المصدر  </td>
-    <td> shorturl.at/ryzXY </td>
+    <td> https://bit.ly/3ftPcVv</td>
   </tr> 
         </tr>  
       <tr>
@@ -198,7 +198,7 @@
     <td> # 28 </td> 
     <td>هل يوجد شهادات اونلاين معتمدة في السعودية؟</td>
     <td>نعم يوجد في موقع هدف </td>
-    <td>shorturl.at/avTW0 </td>
+    <td>https://bit.ly/3kgVI5z </td>
   </tr> 
         </tr>  
       <tr>
@@ -211,14 +211,14 @@
     <td> # 30 </td> 
     <td> كيف ابني نظام مراقبة اتدرب عليه في مراقبة التهديدات  </td>
     <td>تستطيع الحصول عليه من هنا </td>
-    <td>shorturl.at/gizT3 </td>
+    <td>https://youtu.be/d9MgjPw1_bU </td>
           <tr>
                    </tr>  
       <tr>
     <td> # 31 </td> 
     <td> كيف ابني لوحة مراقبة تفيدني في عملية رصد التهديدات </td>
     <td>تستطيع الحصول عليه من هنا </td>
-    <td>shorturl.at/inZ68 </td>
+    <td>https://bit.ly/3a4PIIv</td>
                     </tr>  
       <tr>
     <td> # 32 </td> 
