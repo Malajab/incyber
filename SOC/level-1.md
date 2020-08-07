@@ -728,4 +728,8 @@
 
 - [<p dir='rtl' align='right'>🔗 منصة SANS للمقالات يفضل الاطلاع عليها بشكل يومي </p>](https://github.com/hslatman/awesome-threat-intelligencehttps://www.sans.org/reading-room/)
 
+- [<p dir='rtl' align='right'>🔗 لقاء عن مراكز العمليات السيبرانية </p>](https://www.youtube.com/watch?v=Nbrr8otDTEY)
+
+- [<p dir='rtl' align='right'>🔗 يوم في حياة موظف في مركز العمليات السيبرانية SOC </p>](https://www.youtube.com/watch?v=d9MgjPw1_bU&t=681s)
+
 
