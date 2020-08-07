@@ -612,5 +612,29 @@
   <h5 dir='rtl' align='right'>▪️ شهادات اخرى: CASP: CompTIA Advanced Security Practitioner </h5>
     
 
+<h3 dir='rtl' align='right'> 📚 الكتب الواجب علي الاطلاع عليها</h3>
+
+- [<p dir='rtl' align='right'>🔗 كتاب الاستراتجيات العشرة لمراكز العمليات السيبرانية  </p>](https://www.mitre.org/sites/default/files/publications/pr-13-1028-mitre-10-strategies-cyber-ops-center.pdf)
+
+<h3 dir='rtl' align='right'> 📚 سياسة التعامل مع الحوادث والتهديدات PlayBooks </h3>
+
+- [<p dir='rtl' align='right'>🔗 سياسة التعامل مع البرمجيات الخبيثة Malware Playbook </p>](https://www.incidentresponse.com/playbooks/malware-outbreak)
+
+- [<p dir='rtl' align='right'>🔗 سياسة التعامل مع البريد الاحتيالي Malware phishing playbook  </p>](https://www.incidentresponse.com/playbooks/phishing)
+
+- [<p dir='rtl' align='right'>🔗 سياسة التعامل مع تسريب البيانات Data Theft playbook </p>](https://www.incidentresponse.com/playbooks/data-theft)
+
+- [<p dir='rtl' align='right'>🔗 سياسة التعامل مع الفايروسات المدمرة Vuris outbreak Playbook </p>](https://www.incidentresponse.com/playbooks/virus-outbreak)
+
+- [<p dir='rtl' align='right'>🔗 سياسة التعامل مع هجمات حجب الخدمة ى DDOS Playbook </p>](https://www.incidentresponse.com/playbooks/ddos)
+
+- [<p dir='rtl' align='right'>🔗 سياسة التعامل مع الوصول الغير مصرح به Unauthorized Playbook </p>](https://www.incidentresponse.com/playbooks/unauthorized-access)
+
+- [<p dir='rtl' align='right'>🔗 سياسة التعامل مع تصعيد الصلاحيات elevation of privilege  Playbook </p>](https://www.incidentresponse.com/playbooks/elevation-of-privilege)
+
+- [<p dir='rtl' align='right'>🔗 سياسة التعامل مع الاستخدام الغير صحيح لانظمة الشركة improper Usage Playbook </p>](https://www.incidentresponse.com/playbooks/improper-computer-usage)
+
+- [<p dir='rtl' align='right'>🔗 سياسة التعامل مع استخدام حساب صلاحيات عالية في الاعمال اليومية Root access Playbook </p>](https://www.incidentresponse.com/playbooks/root-access)
+
  <h4 dir='rtl' align='right'> لا يزال العمل جاري على هذه الصفحة </h4>
 
