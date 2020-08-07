@@ -1,4 +1,4 @@
-<h2 dir='rtl' align='right'>مركز العمليات السيبرانية cyber Secuirty Operation Center  </h2>
+<h2 dir='rtl' align='right'>مركز العمليات السيبرانية Cyber Secuirty Operation Center  </h2>
 
 <h3 dir='rtl' align='right'> 📃 المستوى الاول - Level 1</h3>
 
