@@ -572,7 +572,44 @@
 
 - [<p dir='rtl' align='right'>🔗 الملاحظات والمصادر لشهادة Network + </p>](https://www.youtube.com/playlist?list=PLCBJ6FzVTy-DpIld56JdKtmhSHSMj0g75)
 
+  <h4 dir='rtl' align='right'>▪️   شهادة Security + </h4>
+  
+    >  <p dir='rtl' align='right'> هي مدخل الى الامن السيبراني حيث ستتعرف في هذه الشهادة المعلومات في مجال الامن السيبراني وتقوم هذه الشهادة بتأسيس المبادئ لديك في الامن السيبراني القائم على السلامة والتوفر والخصوصية 
+</p>
+- [<p dir='rtl' align='right'>🔗 الملاحظات والمصادر لشهادة Security + </p>](https://youtu.be/iOS6QAepBUY)
+
+  <h4 dir='rtl' align='right'>▪️   شهادة PTS </h4>
+  
+  >  <p dir='rtl' align='right'> بعد الانتهاء من شهادة Security + او الجانب النظري نتطرق في شهادة PTS الي الجانب العملي ففي هذه الشهادة ستقوم بتطبيق جميع ما تعلمتة من خلال مختبرات مجهزة وشروحات لها وكذلك الحل في حال لم تستطيع اانجاز المختبر   
+</p>
+  
+- [<p dir='rtl' align='right'>🔗التحضير لشهادة PTS </p>](https://twitter.com/MAlajab/status/1033057551770902529?s=20)
 
 
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى:GCIA: GIAC Certified Intrusion Analyst  </h5>
+   
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى: GCFA: GIAC Certified Forensic Analyst </h5>
+  
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى: GCUX: GIAC Certified UNIX Security Administrator </h5>
+   
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى: GCWN: GIAC Certified Windows Security Administrator </h5>
+  
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى: GMON: GIAC Continuous Monitoring Certification </h5>
+   
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى: GRID: GIAC Response and Industrial Defense </h5>
+    
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى:ECIH: EC-Council Certified Incident Handler </h5>
+  
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى:ECSA: EC-Council Certified Security Analyst </h5>
+ 
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى: eNDP: eLearnSecurity Network Defense Professional </h5>
+  
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى: eWDP: eLearnSecurity Web Defense Professional</h5>
+ 
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى: CYSA+: Cybersecurity Analyst </h5>
+ 
+  <h5 dir='rtl' align='right'>▪️ شهادات اخرى: CASP: CompTIA Advanced Security Practitioner </h5>
+    
 
  <h4 dir='rtl' align='right'> لا يزال العمل جاري على هذه الصفحة </h4>
+
