@@ -163,3 +163,35 @@
     <td> نظام يقوم بتصنيف وفهرسة البيانات والحزم مما يسهل عملية البحث و الرجوع لها عند التحليل للبيانات    </td>
   </tr> 
        <tr>
+       <td> https://snort.org/ </td> 
+    <td>   موقع يقدم لك منصة IDS مجانية  </td>
+  </tr> 
+       <tr>
+       <td> https://suricata-ids.org/ </td> 
+    <td> موقع يقدم لك منصة IDS مجانية   </td>
+  </tr> 
+       <tr>
+       <td> https://www.wireshark.org/ </td> 
+    <td>  البرمجية الشهيرة في تحليل الحزم الشبكية  </td>
+  </tr> 
+       <tr>
+       <td>https://zeek.org/ </td> 
+    <td>  البرمجية الشهيرة في تحليل الحزم الشبكية  </td>
+  </tr> 
+       <tr>
+       <td>https://github.com/Cyb3rWard0g/HELK </td> 
+    <td> المنصة الشهيرة في اصطياد التهديدات  </td>
+  </tr> 
+       <tr>
+       <td>https://attackerkb.com/ </td> 
+    <td> منصة مفتوحة المصدر لمتابعة مؤشرات الاختراق  </td>
+  </tr> 
+       <tr>
+       <td>http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html </td> 
+    <td> منصة T-Pot لاصطياد المهاجمين حيث تقدم لهم بيئة مصابة بثغرات متعددة  </td>
+  </tr> 
+       <tr>
+       <td>https://github.com/Neo23x0/Loki </td> 
+    <td> اداة تقوم بالبحث عن مؤشرات الاختراق داخل المنظمة  </td>
+  </tr> 
+       <tr>
