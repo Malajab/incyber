@@ -215,3 +215,7 @@
     <td> منصة متميزة لعمليات التشفير او فك التشفير لجميع النصوص URI encode,XOR.. الخ </td>
   </tr> 
        <tr>
+       <td>https://attack.mitre.org/resources/training/cti/</td> 
+    <td> شرح كيف يتم استخدام ATT&CK داخل المنظمة </td>
+  </tr> 
+       <tr>
