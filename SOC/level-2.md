@@ -195,3 +195,19 @@
     <td> اداة تقوم بالبحث عن مؤشرات الاختراق داخل المنظمة  </td>
   </tr> 
        <tr>
+       <td>https://www.abuse.ch/</td> 
+    <td> منصة تقوم بتتبع المعرفات والنطاقات الخاصة بالبرمجيات الضارة </td>
+  </tr> 
+       <tr>
+       <td>http://www.phishtank.com/</td> 
+    <td> منصة ضخمة تقوم بجمع مؤشرات الاختراق التي تستهدف البريد الالكتروني وتستطيع الاستفادة منها من خلال API خاص. </td>
+  </tr> 
+       <tr>
+       <td>https://www.dan.me.uk/tornodes</td> 
+    <td> هنا جميع مخارج TOR </td>
+  </tr> 
+       <tr>
+       <td>http://www.alienvault.com/open-threat-exchange/dashboard</td> 
+    <td> منصة متميزة بجميع جميع مؤشرات الاختراق </td>
+  </tr> 
+       <tr>
