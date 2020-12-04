@@ -72,13 +72,12 @@
     <tr>
     <td> https://www.virustotal.com </td> 
     <td>يقدم لك تحليل للبرمجيات الضارة وكذلك استعلام عن الملفات والعناوين الخبيثة وتستطيع استخدامة بشكل مجاني.</td>
-  </tr>  
-      <tr>
-     <tr>
+  </tr> 
+       <tr>
     <td>https://hybrid-analysis.com </td> 
     <td>يقدم لك تحليل تلقائي للبرمجيات الضارة</td>
-  </tr>  
-     <tr>
+  </tr> 
+       <tr>
     <td>https://any.run/ </td> 
     <td>يقدم لك بيئة خاصة لتحليل البرمجيات الضارة</td>
   </tr> 
@@ -94,27 +93,27 @@
     <td>https://socprime.com/ </td> 
     <td>في حال وجود UseCase ولا تعرف كيف تقوم إنشاءها قم باستخدم هذا الموقع الذي يستطيع تحويل التواقيع لاي SIEM لديك </td>
   </tr> 
-         <tr>
+       <tr>
     <td>https://community.riskiq.com/ </td> 
     <td>يقدم لك معلومات استخباراتية جبارة ولكن بقدرات محدودة للحساب المجاني</td>
   </tr> 
-           <tr>
+        <tr>
     <td> https://www.paloaltonetworks.com/cortex/autofocus</td> 
     <td>يقدم لك معلومات استخباراتية محدثة</td>
   </tr> 
-           <tr>
+        <tr>
     <td>https://unit42.paloaltonetworks.com/ </td> 
     <td>يقدم لك تقارير استخباراتية عن اخر الهجمات السيبرانية</td>
   </tr> 
-           <tr>
+        <tr>
     <td>https://otx.alienvault.com/ </td> 
     <td>منصة مفتوحة المصدر تقدم لك معلومات استخبارتية محدثة</td>
   </tr> 
-           <tr>
+        <tr>
     <td>https://mxtoolbox.com/ </td> 
     <td>يقدم لك خدمات متعددة لعمليات التحليل لتهديدات السيبرانية</td>
   </tr> 
-           <tr>
+        <tr>
     <td>https://gchq.github.io/CyberChef/ </td> 
     <td>يقدم لك اداء متميزة في عمليات فك الترميز</td>
   </tr> 
@@ -146,27 +145,21 @@
     <tr>
     <td> https://cuckoosandbox.org/ </td> 
     <td> تقدم لك عملية فحص داينمايكية للبرمجيات و الملفات الضارة </td>
-  </tr>     
-             <tr>
+  </tr> 
+       <tr>
      <td>https://www.pfsense.org/ </td> 
     <td> يقدم لك نظام جدار حماية مجاني مفتوح المصدر </td>
-       </tr>     
-             <tr>
-  </tr>     
-             <tr>
+  </tr> 
+       <tr>
      <td>https://securityonion.net/ </td> 
     <td> نظام حماية متكامل للمراقبة والرصد واختبار البرمجيات  </td>
-       </tr>     
-             <tr>
-                 </tr>     
-             <tr>
+  </tr> 
+       <tr>
      <td>https://wazuh.com/ </td> 
     <td> نظام متكامل لمراقبة التهديدات وعرضها بشكل مناسب وسهل للفهم ومبنيه على رسوم   </td>
-       </tr>     
-             <tr>
-                                </tr>     
-             <tr>
+  </tr> 
+       <tr>
      <td>https://github.com/aol/moloch </td> 
     <td> نظام يقوم بتصنيف وفهرسة البيانات والحزم مما يسهل عملية البحث و الرجوع لها عند التحليل للبيانات    </td>
-       </tr>     
-             <tr>
+  </tr> 
+       <tr>
