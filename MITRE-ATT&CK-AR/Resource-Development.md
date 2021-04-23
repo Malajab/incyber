@@ -13,7 +13,6 @@
 - صيغة YML :[تفضل هنا](/) 
 ### التقنيات / Techniques
 
-
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                            |  الوصف / Description |
 |-------------|---------------|--------------------------------------------------------|----------------------|
 | T1583       |               |  امتلاك بنية تحتية / Acquire Infrastructure            |                      |
@@ -26,28 +25,29 @@
 | T1586       |               | الحسابات المخترقة / Compromise Accounts                |                      |
 | T1586       | .001          | حسابات وسائل التواصل الاجتماعي / Social Media Accounts |                      |
 | T1586       | .002          | البريد الالكتروني / Email Accounts                     |                      |
-| T1584       |               | Compromise Infrastructure                              |                      |
-| T1584       | .001          | Domains                                                |                      |
-| T1584       | .002          | DNS Server                                             |                      |
-| T1584       | .003          | Virtual Private Server                                 |                      |
-| T1584       | .004          | Server                                                 |                      |
-| T1584       | .005          | Botnet                                                 |                      |
-| T1584       | .006          | Web Services                                           |                      |
-| T1587       |               | Develop Capabilities                                   |                      |
-| T1587       | .001          | Malware                                                |                      |
-| T1587       | .002          | Code Signing Certificates                              |                      |
-| T1587       | .003          | Digital Certificates                                   |                      |
-| T1587       | .004          | Exploits                                               |                      |
-| T1585       |               | Establish Accounts                                     |                      |
-| T1585       | .001          | Social Media Accounts                                  |                      |
-| T1585       | .002          | Email Accounts                                         |                      |
-| T1588       |               | Obtain Capabilities                                    |                      |
-| T1588       | .001          | Malware                                                |                      |
-| T1588       | .002          | Tool                                                   |                      |
-| T1588       | .003          | Code Signing Certificates                              |                      |
-| T1588       | .004          | Digital Certificates                                   |                      |
-| T1588       | .005          | Exploits                                               |                      |
-| T1588       | .006          | Vulnerabilities                                        |                      |
+| T1584       |               | بنية تحتية مخترقة / Compromise Infrastructure          |                      |
+| T1584       | .001          | النطاقات / Domains                                     |                      |
+| T1584       | .002          | خوادم اسماء النطاقات / DNS Server                      |                      |
+| T1584       | .003          | الخوادم الافتراضية / Virtual Private Server            |                      |
+| T1584       | .004          | الخوادم /  Server                                      |                      |
+| T1584       | .005          | البوت / Botnet                                         |                      |
+| T1584       | .006          | خدمات الويب / Web Services                             |                      |
+| T1587       |               | القدرات التطويرية / Develop Capabilities               |                      |
+| T1587       | .001          | البرمجيات الضارة / Malware                             |                      |
+| T1587       | .002          | شهادات التواقيع البرمجية / Code Signing Certificates   |                      |
+| T1587       | .003          | الشهادات الرقمية / Digital Certificates                |                      |
+| T1587       | .004          | الاختراق / Exploits                                    |                      |
+| T1585       |               | انشاء حسابات او جمعها / Establish Accounts             |                      |
+| T1585       | .001          | حسابات وسائل التواصل الاجتماعي / Social Media Accounts |                      |
+| T1585       | .002          | البريد الالكتروني / Email Accounts                     |                      |
+| T1588       |               | امتلاك القدرات / Obtain Capabilities                   |                      |
+| T1588       | .001          | البرمجيات الضارة / Malware                             |                      |
+| T1588       | .002          | الادوات / Tool                                         |                      |
+| T1588       | .003          | شهادات التواقيع البرمجية / Code Signing Certificates   |                      |
+| T1588       | .004          | الشهادات الرقمية / Digital Certificates                |                      |
+| T1588       | .005          | الاختراق / Exploits                                    |                      |
+| T1588       | .006          | الثغرات / Vulnerabilities                              |                      |
+
 
 
 
