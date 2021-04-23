@@ -10,4 +10,6 @@
   - ثامر الشمري
   - محمد السحيمي
 
-### [here](#10)
+### لمتابعة عمل المشروع: 
+- [الترجمة ](https://github.com/Malajab/incyber/issues/10#issue-865805548)
+- [التدقيق و المراجعة](https://github.com/Malajab/incyber/issues/10#issue-865805548)
