@@ -13,6 +13,7 @@
 - صيغة YML :[تفضل هنا](/) 
 ### التقنيات / Techniques
 
+
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                            |  الوصف / Description |
 |-------------|---------------|--------------------------------------------------------|----------------------|
 | T1583       |               |  امتلاك بنية تحتية / Acquire Infrastructure            |                      |
@@ -42,15 +43,13 @@
 | T1585       | .002          | Email Accounts                                         |                      |
 | T1588       |               | Obtain Capabilities                                    |                      |
 | T1588       | .001          | Malware                                                |                      |
-
-
-
-
-</div>
-
 | T1588       | .002          | Tool                                                   |                      |
 | T1588       | .003          | Code Signing Certificates                              |                      |
 | T1588       | .004          | Digital Certificates                                   |                      |
 | T1588       | .005          | Exploits                                               |                      |
 | T1588       | .006          | Vulnerabilities                                        |                      |
+
+
+
+</div>
 
