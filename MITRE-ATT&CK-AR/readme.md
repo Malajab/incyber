@@ -16,6 +16,6 @@
 
 ### الاقسام المنتهي منها هي: 
 
-✅ قسم عمليات المسح او الاستطلاع Reconnaissance
+✅  [قسم عمليات المسح او الاستطلاع Reconnaissance](/MITRE-ATT&CK-AR/Reconnaissance.md)
 
 
