@@ -12,28 +12,27 @@
 - صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Reconnaissance-Ext/Reconnaissance-4.sql)
 - صيغة YML :[تفضل هنا](/MITRE-ATT&CK-AR/Reconnaissance-Ext/Reconnaissance-6.yml) 
 ### التقنيات / Techniques
-
-| ID / المعرف | المعرف الفرعي | الاسم/ Name                                             |  الوصف / Description |
-|-------------|---------------|---------------------------------------------------------|----------------------|
-| T1189       |               | Drive-by Compromise                                     |                      |
-| T1190       |               | Exploit Public-Facing Application                       |                      |
-| T1133       |               | External Remote Services                                |                      |
-| T1200       |               | Hardware Additions                                      |                      |
-| T1566       |               | Phishing                                                |                      |
-| T1566       | .001          | Spearphishing Attachment                                |                      |
-| T1566       | .002          | Spearphishing Link                                      |                      |
-| T1566       | .003          | Spearphishing via Service                               |                      |
-| T1091       |               | Replication Through Removable Media                     |                      |
-| T1195       |               | Supply Chain Compromise                                 |                      |
-| T1195       | .001          | Compromise Software Dependencies and Development Tools  |                      |
-| T1195       | .002          | Compromise Software Supply Chain                        |                      |
-| T1195       | .003          | Compromise Hardware Supply Chain                        |                      |
-| T1199       |               | Trusted Relationship                                    |                      |
-| T1078       |               | Valid Accounts                                          |                      |
-| T1078       | .001          | Default Accounts                                        |                      |
-| T1078       | .002          | Domain Accounts                                         |                      |
-| T1078       | .003          | Local Accounts                                          |                      |
-| T1078       | .004          | Cloud Accounts                                          |                      |
+| ID / المعرف | المعرف الفرعي | الاسم/ Name                                                                                  |  الوصف / Description |
+|-------------|---------------|----------------------------------------------------------------------------------------------|----------------------|
+| T1189       |               |  الاختراق من خلال الوصول  Drive-by Compromise                                                |                      |
+| T1190       |               | اختراق تطبيقات المتصلة بالانترنت / Exploit Public-Facing Application                         |                      |
+| T1133       |               | خدمات الاتصال عن بعد / External Remote Services                                              |                      |
+| T1200       |               | العتاد الاضافي / Hardware Additions                                                          |                      |
+| T1566       |               | التصيد / Phishing                                                                            |                      |
+| T1566       | .001          | التصيد بواسطة المرفقات / Spearphishing Attachment                                            |                      |
+| T1566       | .002          | التصيد من خلال الروابط / Spearphishing Link                                                  |                      |
+| T1566       | .003          | التصيد بواسطة الخدمات / Spearphishing via Service                                            |                      |
+| T1091       |               | النسخ المطابق بواسطة الاجهزة القابلة للازالة / Replication Through Removable Media           |                      |
+| T1195       |               | اختراق الموردين / Supply Chain Compromise                                                    |                      |
+| T1195       | .001          | اختراق المتطلبات الخاصة بالبرمجيات / Compromise Software Dependencies and Development Tools  |                      |
+| T1195       | .002          | اختراق تطبيقات الموردين / Compromise Software Supply Chain                                   |                      |
+| T1195       | .003          | اختراق العتاد الخاص بالموردين / Compromise Hardware Supply Chain                             |                      |
+| T1199       |               | علاقة الثقة بين المنظمات / Trusted Relationship                                              |                      |
+| T1078       |               | حساب فعال / Valid Accounts                                                                   |                      |
+| T1078       | .001          | حساب افتراضي / Default Accounts                                                              |                      |
+| T1078       | .002          | حساب مدير النظام / Domain Accounts                                                           |                      |
+| T1078       | .003          | حسابات محلية / Local Accounts                                                                |                      |
+| T1078       | .004          | حسابات على الخدمات السحابية / Cloud Accounts                                                 |                      |
 
 
 
