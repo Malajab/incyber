@@ -16,13 +16,13 @@
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                                           |  الوصف / Description |
 |-------------|---------------|-----------------------------------------------------------------------|----------------------|
 | T1059       |               | سطر الاوامر التفاعلي / Command and Scripting Interpreter              |                      |
-| T1059       | .001          | PowerShell                                                            |                      |
-| T1059       | .002          | AppleScript                                                           |                      |
+| T1059       | .001          | سكربت PowerShell                                                      |                      |
+| T1059       | .002          | سكربت AppleScript                                                     |                      |
 | T1059       | .003          | سطر الاوامر التفاعلي الخاص بالونيدوز / Windows Command Shell          |                      |
 | T1059       | .004          | سطر الاوامر التفاعلي الخاص بالينكس / Unix Shell                       |                      |
-| T1059       | .005          | Visual Basic                                                          |                      |
-| T1059       | .006          | Python                                                                |                      |
-| T1059       | .007          | JavaScript/JScript                                                    |                      |
+| T1059       | .005          | سكربت Visual Basic                                                    |                      |
+| T1059       | .006          | لغة Python                                                            |                      |
+| T1059       | .007          | سكربت JavaScript/JScript                                              |                      |
 | T1059       | .008          | سطر الاوامر التفاعلي الخاص بالشبكات / Network Device CLI              |                      |
 | T1203       |               |  الاختراق بواسطة المستهدف / Exploitation for Client Execution         |                      |
 | T1559       |               | Inter-Process Communication                                           |                      |
@@ -30,8 +30,8 @@
 | T1559       | .002          | تبادل المحتوى الديناميكي / Dynamic Data Exchange                      |                      |
 | T1106       |               | Native API                                                            |                      |
 | T1053       |               | جدولة المهام والاعمال / Scheduled Task/Job                            |                      |
-| T1053       | .001          | At (Linux)                                                            |                      |
-| T1053       | .002          | At (Windows)                                                          |                      |
+| T1053       | .001          |  بيئة لينكس / At (Linux)                                              |                      |
+| T1053       | .002          | بيئة ويندوز / At (Windows)                                            |                      |
 | T1053       | .003          | Cron                                                                  |                      |
 | T1053       | .004          | تشغيل /Launchd                                                        |                      |
 | T1053       | .005          | جدولة الاعمال / Scheduled Task                                        |                      |
@@ -45,6 +45,7 @@
 | T1204       | .001          | رابط ضار / Malicious Link                                             |                      |
 | T1204       | .002          | ملف ضار / Malicious File                                              |                      |
 | T1047       |               | ادارة الاجهزة الخاصة بالويندوز /  Windows Management Instrumentation  |                      |
+
 
 
 </div>
