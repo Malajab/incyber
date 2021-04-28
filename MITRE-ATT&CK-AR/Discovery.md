@@ -1,6 +1,6 @@
 <div dir="rtl" align='right'>
 
-## Persistence الاصرار 
+## Discovery الاستطلاع و الاكتشاف 
 
 
 ### لتحميل بصيغ متعددة تفضل:
