@@ -32,3 +32,18 @@
 
 ⏳  [Credential Access الحصول على بيانات الاعتماد](/MITRE-ATT&CK-AR/Credential-Access.md)
 
+⏳  [Discovery الاستطلاع و الاكتشاف](/MITRE-ATT&CK-AR/Discovery.md)
+
+⏳  [Lateral Movement التنقل داخل الشبكة](/MITRE-ATT&CK-AR/Lateral-Movement.md)
+
+⏳  [Collection جمع البيانات الهامة](/MITRE-ATT&CK-AR/Collection.md)
+
+⏳  [Command and Control التحكم والسيطرة](/MITRE-ATT&CK-AR/Command-and-Control.md)
+
+⏳  [Exfiltration تسريب البيانات](/MITRE-ATT&CK-AR/Exfiltration.md)
+
+⏳  [Impact الاثر](/MITRE-ATT&CK-AR/Impact.md)
+
+📝 في حال رغبت بالمشاركة معنا قم بالتعديل مباشرة على المشروع وكذلك قم بالتواصل معي عبر حسابي على تويتر Malajab وكذلك البريد Malek@hemayate.com
+
+
