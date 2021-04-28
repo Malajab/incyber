@@ -16,7 +16,7 @@
 
 ### الاقسام المنتهي منها هي: 
 
-✅  [Reconnaissance قسم عمليات المسح او الاستطلاع ](/MITRE-ATT&CK-AR/Reconnaissance.md)
+✅  [Reconnaissance  عمليات المسح او الاستطلاع ](/MITRE-ATT&CK-AR/Reconnaissance.md)
 
 ⏳  [Resource Development / تطوير الموارد](/MITRE-ATT&CK-AR/Resource-Development.md)
 
