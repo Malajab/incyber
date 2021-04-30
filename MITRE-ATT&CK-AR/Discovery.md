@@ -13,44 +13,44 @@
  
 ### التقنيات / Techniques
 
-| ID / المعرف | المعرف الفرعي | الاسم/ Name                             |  الوصف / Description |
-|-------------|---------------|-----------------------------------------|----------------------|
-| T1087       |               | Account Discovery                       |                      |
-| T1087       | .001          | Local Account                           |                      |
-| T1087       | .002          | Domain Account                          |                      |
-| T1087       | .003          | Email Account                           |                      |
-| T1087       | .004          | Cloud Account                           |                      |
-| T1010       |               | Application Window Discovery            |                      |
-| T1217       |               | Browser Bookmark Discovery              |                      |
-| T1580       |               | Cloud Infrastructure Discovery          |                      |
-| T1538       |               | Cloud Service Dashboard                 |                      |
-| T1526       |               | Cloud Service Discovery                 |                      |
-| T1482       |               | Domain Trust Discovery                  |                      |
-| T1083       |               | File and Directory Discovery            |                      |
-| T1046       |               | Network Service Scanning                |                      |
-| T1135       |               | Network Share Discovery                 |                      |
-| T1040       |               | Network Sniffing                        |                      |
-| T1201       |               | Password Policy Discovery               |                      |
-| T1120       |               | Peripheral Device Discovery             |                      |
-| T1069       |               | Permission Groups Discovery             |                      |
-| T1069       | .001          | Local Groups                            |                      |
-| T1069       | .002          | Domain Groups                           |                      |
-| T1069       | .003          | Cloud Groups                            |                      |
-| T1057       |               | Process Discovery                       |                      |
-| T1012       |               | Query Registry                          |                      |
-| T1018       |               | Remote System Discovery                 |                      |
-| T1518       |               | Software Discovery                      |                      |
-| T1518       | .001          | Security Software Discovery             |                      |
-| T1082       |               | System Information Discovery            |                      |
-| T1016       |               | System Network Configuration Discovery  |                      |
-| T1049       |               | System Network Connections Discovery    |                      |
-| T1033       |               | System Owner/User Discovery             |                      |
-| T1007       |               | System Service Discovery                |                      |
-| T1124       |               | System Time Discovery                   |                      |
-| T1497       |               | Virtualization/Sandbox Evasion          |                      |
-| T1497       | .001          | System Checks                           |                      |
-| T1497       | .002          | User Activity Based Checks              |                      |
-| T1497       | .003          | Time Based Evasion                      |                      |
+| ID / المعرف | المعرف الفرعي | الاسم/ Name                                                                       | الوصف / Description |
+|-------------|---------------|-----------------------------------------------------------------------------------|---------------------|
+| T1087       |               | الاستطلاع بحث عن الحسابات / Account Discovery                                     |                     |
+| T1087       | .001          | حساب محلي / Local Account                                                         |                     |
+| T1087       | .002          | حساب مدير النظام / Domain Account                                                 |                     |
+| T1087       | .003          | حساب البريد / Email Account                                                       |                     |
+| T1087       | .004          | حساب الخدمات السحابية / Cloud Account                                             |                     |
+| T1010       |               | برمجيات اكتشاف الويندوز / Application Window Discovery                            |                     |
+| T1217       |               | استطلاع المفضلة في المتصفح / Browser Bookmark Discovery                           |                     |
+| T1580       |               | اكتشاف واستطلاع البنية التحتية للخدمات السحابية / Cloud Infrastructure Discovery  |                     |
+| T1538       |               | لوحة المراقبة للخدمات السحابية / Cloud Service Dashboard                          |                     |
+| T1526       |               | استطلاع الخدمات السحابية / Cloud Service Discovery                                |                     |
+| T1482       |               | استطلاع الثقة بين النطاقات / Domain Trust Discovery                               |                     |
+| T1083       |               | الاستطلاع للملفات والمجلدات / File and Directory Discovery                        |                     |
+| T1046       |               | استطلاع خدمات الشبكة / Network Service Scanning                                   |                     |
+| T1135       |               | استطلاع ملفات المشاركة / Network Share Discovery                                  |                     |
+| T1040       |               | التجسس على الشبكة / Network Sniffing                                              |                     |
+| T1201       |               | الاطلاع على سياسة كلمات المرور / Password Policy Discovery                        |                     |
+| T1120       |               | Peripheral Device Discovery                                                       |                     |
+| T1069       |               | استطلاع الصلاحيات للمجموعات / Permission Groups Discovery                         |                     |
+| T1069       | .001          | المجموعات المحلية / Local Groups                                                  |                     |
+| T1069       | .002          | مجموعة مدراء الشبكة / Domain Groups                                               |                     |
+| T1069       | .003          | مجموعة الخدمات السحابية / Cloud Groups                                            |                     |
+| T1057       |               | Process Discovery                                                                 |                     |
+| T1012       |               | Query Registry                                                                    |                     |
+| T1018       |               | اكتشاف والاستطلاع للخدمات عن بعد / Remote System Discovery                        |                     |
+| T1518       |               | استطلاع البرمجيات / Software Discovery                                            |                     |
+| T1518       | .001          | استطلاع برمجيات الحماية / Security Software Discovery                             |                     |
+| T1082       |               | الاطلاع على معلومات النظام / System Information Discovery                         |                     |
+| T1016       |               | الاطلاع على اعدادات الشبكة / System Network Configuration Discovery               |                     |
+| T1049       |               | الاطلاع على الاتصالات الخاصة بنظام الشبكات / System Network Connections Discovery |                     |
+| T1033       |               | الاطلاع على بيانات مالك العنوان / System Owner/User Discovery                     |                     |
+| T1007       |               | الاطلاع على خدمات النظام / System Service Discovery                               |                     |
+| T1124       |               | الاطلاع على وقت النظام / System Time Discovery                                    |                     |
+| T1497       |               | Virtualization/Sandbox Evasion                                                    |                     |
+| T1497       | .001          | System Checks                                                                     |                     |
+| T1497       | .002          | User Activity Based Checks                                                        |                     |
+| T1497       | .003          | Time Based Evasion                                                                |                     |
 
 
 </div>
