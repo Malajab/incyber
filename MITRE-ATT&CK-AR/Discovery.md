@@ -34,7 +34,7 @@
 | T1120       |               | Peripheral Device Discovery                                                       |                     |
 | T1069       |               | استطلاع الصلاحيات للمجموعات / Permission Groups Discovery                         |                     |
 | T1069       | .001          | المجموعات المحلية / Local Groups                                                  |                     |
-| T1069       | .002          | مجموعة مدراء الشبكة / Domain Groups                                               |                     |
+| T1069       | .002          | مجموعة مدراء النظام / Domain Groups                                               |                     |
 | T1069       | .003          | مجموعة الخدمات السحابية / Cloud Groups                                            |                     |
 | T1057       |               | Process Discovery                                                                 |                     |
 | T1012       |               | Query Registry                                                                    |                     |
