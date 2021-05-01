@@ -18,7 +18,7 @@
 
 ✅  [Reconnaissance  عمليات المسح او الاستطلاع ](/MITRE-ATT&CK-AR/Reconnaissance.md)
 
-⏳  [Resource Development / تطوير الموارد](/MITRE-ATT&CK-AR/Resource-Development.md)
+✅  [Resource Development / تطوير الموارد](/MITRE-ATT&CK-AR/Resource-Development.md)
 
 ⏳  [Initial Access الاختراق الاولي](/MITRE-ATT&CK-AR/Initial-Access.md)
 
