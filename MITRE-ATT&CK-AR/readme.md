@@ -24,7 +24,7 @@
 
 ✅  [Resource Development / تطوير الموارد](/MITRE-ATT&CK-AR/Resource-Development.md)
 
-⏳  [Initial Access الاختراق الاولي](/MITRE-ATT&CK-AR/Initial-Access.md)
+✅  [Initial Access الاختراق الاولي](/MITRE-ATT&CK-AR/Initial-Access.md)
 
 ⏳  [Execution التنفيذ او التشغيل](/MITRE-ATT&CK-AR/Execution.md)
 
