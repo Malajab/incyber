@@ -5,12 +5,12 @@
 يتكون الوصول الاولي من مجموعة من التقنيات التي تستخدم للحصول على صلاحيات أولية للوصول للنظام او الشبكة المستهدفة. وتشتمل الأساليب المستخدمة ما بين رسائل تصيدية او استغلال نقاط الضعف على الخدمات المتصلة بالإنترنت. وقد يسمح الوصول الاولي للمهاجم باستمرارية وانتشاره داخل الشبكة بل قد يستطيع المهاجم الحصول على احد الحسابات الفعالة واستخدامه في احد الخدمات المتصلة بالإنترنت او تغير كلمات المرور الخاصة بها. 
 
 ### لتحميل بصيغ متعددة تفضل:
-- صيغة JSON :[تفضل هنا]() 
-- صيغة XLS :[تفضل هنا]()
-- صيغة CSV :[تفضل هنا]() 
-- صيغة XML :[تفضل هنا]()
-- صيغة SQL :[تفضل هنا]()
-- صيغة YML :[تفضل هنا]()
+- صيغة JSON :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_json.json) 
+- صيغة XLS :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_excel.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_csv.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_xml.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_sql.sql)
+- صيغة YML :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_yaml.yml)
  
 ### التقنيات / Techniques
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                                                                 | الوصف / Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
