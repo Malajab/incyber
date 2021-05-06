@@ -14,6 +14,7 @@
   - ثامر الشمري
   - محمد السحيمي
 
+### ملاحظة: تم دعم هذا المشروع من قبل شركة CyberCave للامن السيبراني. 
 ### لمتابعة عمل المشروع: 
 - [الترجمة ](https://github.com/Malajab/incyber/issues/9#issue-865804375)
 - [التدقيق و المراجعة](https://github.com/Malajab/incyber/issues/10#issue-865805548)
