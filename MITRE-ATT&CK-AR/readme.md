@@ -27,7 +27,7 @@
 
 ✅  [Initial Access الاختراق الاولي](/MITRE-ATT&CK-AR/Initial-Access.md)
 
-⏳  [Execution التنفيذ او التشغيل](/MITRE-ATT&CK-AR/Execution.md)
+✅  [Execution التنفيذ او التشغيل](/MITRE-ATT&CK-AR/Execution.md)
 
 ⏳  [Persistence الاصرار](/MITRE-ATT&CK-AR/Persistence.md)
 
