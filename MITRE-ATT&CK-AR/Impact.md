@@ -40,7 +40,7 @@
 | T1498       |               | حجب خدمات الشبكة / Network Denial of Service                       |                     |
 | T1498       | .001          | فيضان الشبكة المحدد / Direct Network Flood                         |                     |
 | T1498       | .002          | Reflection Amplification                                           |                     |
-| T1496       |               | Resource Hijacking                                                 |                     |
+| T1496       |               | Resource Hijacking                                                 |      قد يستفيد المهاجمين من موارد الأنظمة المختارة من أجل حل مشكلات الموارد العالية التي قد تؤثر على النظام أو توافرية الخدمة المستضافة.               |
 | T1489       |               | ايقاف الخدمات / Service Stop                                       |                     |
 | T1529       |               | ايقاف او اعادة تشغيل الانظمة / System Shutdown/Reboot              |                     |
 
