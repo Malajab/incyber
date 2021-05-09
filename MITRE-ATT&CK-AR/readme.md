@@ -29,7 +29,7 @@
 
 ✅  [Execution التنفيذ او التشغيل](/MITRE-ATT&CK-AR/Execution.md)
 
-⏳  [Persistence الاصرار](/MITRE-ATT&CK-AR/Persistence.md)
+⏳  [Persistence البقاء قدر المستطاع ](/MITRE-ATT&CK-AR/Persistence.md)
 
 ⏳  [Privilege Escalation تصعيد الصلاحيات](/MITRE-ATT&CK-AR/Privilege-Escalation.md)
 
@@ -47,7 +47,7 @@
 
 ✅  [Exfiltration تسريب البيانات](/MITRE-ATT&CK-AR/Exfiltration.md)
 
-✅  [Impact الاثر](/MITRE-ATT&CK-AR/Impact.md)
+✅  [Impact الضرر](/MITRE-ATT&CK-AR/Impact.md)
 
 📝 في حال رغبت بالمشاركة معنا قم بالتعديل مباشرة على المشروع وكذلك قم بالتواصل معي عبر حسابي على تويتر Malajab وكذلك البريد Malek@hemayate.com
 
