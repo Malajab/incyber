@@ -45,7 +45,7 @@
 
 ⏳  [Command and Control التحكم والسيطرة](/MITRE-ATT&CK-AR/Command-and-Control.md)
 
-⏳  [Exfiltration تسريب البيانات](/MITRE-ATT&CK-AR/Exfiltration.md)
+✅  [Exfiltration تسريب البيانات](/MITRE-ATT&CK-AR/Exfiltration.md)
 
 ✅  [Impact الاثر](/MITRE-ATT&CK-AR/Impact.md)
 
