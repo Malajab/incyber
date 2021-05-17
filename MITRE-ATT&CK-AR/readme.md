@@ -29,7 +29,7 @@
 
 ✅  [Execution التنفيذ او التشغيل](/MITRE-ATT&CK-AR/Execution.md)
 
-⏳  [Persistence البقاء قدر المستطاع ](/MITRE-ATT&CK-AR/Persistence.md)
+✅  [Persistence البقاء قدر المستطاع ](/MITRE-ATT&CK-AR/Persistence.md)
 
 ⏳  [Privilege Escalation تصعيد الصلاحيات](/MITRE-ATT&CK-AR/Privilege-Escalation.md)
 
