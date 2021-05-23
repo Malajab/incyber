@@ -43,7 +43,7 @@
 
 ⏳  [Collection جمع البيانات الهامة](/MITRE-ATT&CK-AR/Collection.md)
 
-⏳  [Command and Control التحكم والسيطرة](/MITRE-ATT&CK-AR/Command-and-Control.md)
+✅  [Command and Control التحكم والسيطرة](/MITRE-ATT&CK-AR/Command-and-Control.md)
 
 ✅  [Exfiltration تسريب البيانات](/MITRE-ATT&CK-AR/Exfiltration.md)
 
