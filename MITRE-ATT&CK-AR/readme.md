@@ -31,7 +31,7 @@
 
 ✅  [Persistence البقاء قدر المستطاع ](/MITRE-ATT&CK-AR/Persistence.md)
 
-⏳  [Privilege Escalation تصعيد الصلاحيات](/MITRE-ATT&CK-AR/Privilege-Escalation.md)
+✅  [Privilege Escalation تصعيد الصلاحيات](/MITRE-ATT&CK-AR/Privilege-Escalation.md)
 
 ⏳  [Defense Evasion التهرب من الاكتشاف](/MITRE-ATT&CK-AR/Defense-Evasion.md)
 
