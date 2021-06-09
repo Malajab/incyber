@@ -35,7 +35,7 @@
 
 ⏳  [Defense Evasion التهرب من الاكتشاف](/MITRE-ATT&CK-AR/Defense-Evasion.md)
 
-⏳  [Credential Access الحصول على بيانات الاعتماد](/MITRE-ATT&CK-AR/Credential-Access.md)
+✅  [Credential Access الحصول على بيانات الاعتماد](/MITRE-ATT&CK-AR/Credential-Access.md)
 
 ⏳  [Discovery الاستطلاع و الاكتشاف](/MITRE-ATT&CK-AR/Discovery.md)
 
