@@ -41,7 +41,7 @@
 
 ⏳  [Lateral Movement التنقل داخل الشبكة](/MITRE-ATT&CK-AR/Lateral-Movement.md)
 
-⏳  [Collection جمع البيانات الهامة](/MITRE-ATT&CK-AR/Collection.md)
+✅  [Collection جمع البيانات الهامة](/MITRE-ATT&CK-AR/Collection.md)
 
 ✅  [Command and Control التحكم والسيطرة](/MITRE-ATT&CK-AR/Command-and-Control.md)
 
