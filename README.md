@@ -13,7 +13,7 @@
 
 <p dir='rtl' align='right'> 
   
-  - [<p dir='rtl' align='right'> ✅  نمذجة التهديدات السيبرانية اطار MITER | ATT&CK </p>](https://github.com/Malajab/incyber/tree/master/MITRE-ATT%26CK-AR)  
+  - [<p dir='rtl' align='right'> ✅  نمذجة التهديدات السيبرانية اطار MITER | ATT&CK </p>](https://github.com/Malajab/incyber/blob/master/MITRE-ATT&CK-AR/README.md)  
   - [<p dir='rtl' align='right'> ✅  الاساسيات في اختبار الاختراق واصطياد الثغرات</p>](/assets/basics.md)
   - [<p dir='rtl' align='right'> ✅ تثبيت انظمة التشغيل الخاصة باختبار الاختراق  </p>](/assets/setup.md)
   - [<p dir='rtl' align='right'> ✅ الادوات الخاصة باختبار الاختراق "PT" واصطياد الثغرات "BugBounty" </p>](/assets/tools.md)
