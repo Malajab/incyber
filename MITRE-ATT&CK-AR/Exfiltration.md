@@ -5,12 +5,12 @@
 تسريب البيانات يتكون من عدة تقنيات قد يستخدمها المهاجمين لسرقة البيانات من شبكتك. بمجرد أن يتم جمع البيانات غالبا يتم حزمها/ضغطها لتفادي الاكتشاف عندما يتم نقلها. وذلك يتم أما عبر الأرشفة أو التشفير. ان التقنيات المستخدمة لتسريب البيانات لخارج الشبكة هي بالغالب تتم عبر قناة التحكم والسيطرة(C&C) أو من خلال قناة أخرى وكذلك من المحتمل وضع قيود على حجم النقل.
 
 ### لتحميل بصيغ متعددة تفضل:
-- صيغة JSON :[تفضل هنا]() 
-- صيغة XLS :[تفضل هنا]()
-- صيغة CSV :[تفضل هنا]() 
-- صيغة XML :[تفضل هنا]()
-- صيغة SQL :[تفضل هنا]()
-- صيغة YML :[تفضل هنا]()
+- صيغة JSON :[تفضل هنا](/MITRE-ATT%26CK-AR/Exfiltration-Ext/Exfiltration.json) 
+- صيغة XLS :[تفضل هنا](/MITRE-ATT%26CK-AR/Exfiltration-Ext/Exfiltration.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT%26CK-AR/Exfiltration-Ext/Exfiltration.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT%26CK-AR/Exfiltration-Ext/Exfiltration.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT%26CK-AR/Exfiltration-Ext/Exfiltration.sql)
+- صيغة YML :[تفضل هنا](/MITRE-ATT%26CK-AR/Exfiltration-Ext/Exfiltration.yml)
  
 ### التقنيات / Techniques
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                                                   | الوصف / Description                                                                                                                                                                                                                                                                                                                                                                                                                            |
