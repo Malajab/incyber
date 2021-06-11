@@ -5,12 +5,12 @@
 يتكون التنفيذ او التفعيل الى تشغيل بعض الاكواد البرمجية الضارة على نظام محلي او عن بعد والتي تعطي المهاجم افضلية التحكم والسيطرة على المستهدف. وغالباً تقترن جميع العمليات والتقنيات والأساليب المتقدمة بعد القيام بعملية (التنفيذ او التشغيلExecution ). ومن الأمثلة عمليات قيام المهاجم باستخدام أدوات عن بعد بهدف التحكم والسيطرة بالأنظمة من خلال سكربت PowerShell.
 
 ### لتحميل بصيغ متعددة تفضل:
-- صيغة JSON :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution_json.json) 
-- صيغة XLS :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution_excel.xlsx)
-- صيغة CSV :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution_csv.csv) 
-- صيغة XML :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution_xml.xml)
-- صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Executionـsql.sql)
-- صيغة YML :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution_yml.yml) 
+- صيغة JSON :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution.json) 
+- صيغة XLS :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution.sql)
+- صيغة YML :[تفضل هنا](/MITRE-ATT&CK-AR/Execution-Ext/Execution.yml) 
 
 ### التقنيات / Techniques
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                                          | الوصف / Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
