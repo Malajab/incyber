@@ -5,12 +5,12 @@
 الحصول على بيانات الاعتماد تتم من خلال اتباع أساليب وتقنيات يقوم بها المهاجم بهدف سرقة أسماء المستخدمين وكلمات المرور، وتشتمل الأساليب والتقنيات للحصول على بيانات الاعتماد بطرق مختلفة منها مسجل ضربات المفاتيح او سحب كلمات المرور. ومن خلال استخدام بيانات اعتماد صحيحة وفعالة قد تمكن المهاجم من اختراق الأنظمة والتي تعطي المهاجم ميزة وهي صعوبة اكتشافه وتعطيه الصلاحية كذلك في انشاء حسابات أخرى.
 
 ### لتحميل بصيغ متعددة تفضل:
-- صيغة JSON :[تفضل هنا]() 
-- صيغة XLS :[تفضل هنا]()
-- صيغة CSV :[تفضل هنا]() 
-- صيغة XML :[تفضل هنا]()
-- صيغة SQL :[تفضل هنا]()
-- صيغة YML :[تفضل هنا]()
+- صيغة JSON :[تفضل هنا](/MITRE-ATT%26CK-AR/Credential-Access-Ext/Credential-Access.json) 
+- صيغة XLS :[تفضل هنا](/MITRE-ATT%26CK-AR/Credential-Access-Ext/Credential-Access.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT%26CK-AR/Credential-Access-Ext/Credential-Access.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT%26CK-AR/Credential-Access-Ext/Credential-Access.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT%26CK-AR/Credential-Access-Ext/Credential-Access.sql)
+- صيغة YML :[تفضل هنا](/MITRE-ATT%26CK-AR/Credential-Access-Ext/Credential-Access.yml)
  
 ### التقنيات / Techniques
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                               | الوصف / Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
