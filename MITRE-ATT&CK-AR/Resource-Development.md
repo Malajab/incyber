@@ -6,12 +6,12 @@
 
 ### لتحميل بصيغ متعددة تفضل:
 
-- صيغة JSON :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource%20Development_json.json)
-- صيغة XLS :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource%20Developmentexcel.xlsx)
-- صيغة CSV :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource%20Development_csv.csv) 
-- صيغة XML :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource%20Development_xml.xml)
-- صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource%20Development_sql.sql)
-- صيغة YAML :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource%20Development_yaml.yml) 
+- صيغة JSON :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource-Development.json)
+- صيغة XLS :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource-Development.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource-Development.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource-Development.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource-Development.sql)
+- صيغة YAML :[تفضل هنا](/MITRE-ATT&CK-AR/Resource-Development-Ext/Resource-Development.yml) 
 ### التقنيات / Techniques
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                            | الوصف / Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-------------|---------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
