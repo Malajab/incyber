@@ -45,6 +45,6 @@
 
 ✅  [Exfiltration تسريب البيانات](/MITRE-ATT&CK-AR/Exfiltration.md)
 
-✅  [Impact الضرر](/MITRE-ATT&CK-AR/Impact.md)
+✅  [Impact التأثير](/MITRE-ATT&CK-AR/Impact.md)
 
 
