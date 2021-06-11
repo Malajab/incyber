@@ -5,12 +5,12 @@
 يقوم المهاجم باستخدام وسائل متعددة لتحكم والسيطرة بالنظام المستهدف وتختلف التقنيات والأساليب المتبعة في هذه المرحلة. وعادة ما يقوم المهاجمين باستخدام طرق متقدمة لمحاكات حركة المرور الطبيعية لتجنب عمليات الرصد والاكتشاف. وهناك العديد من الأساليب والتقنيات التي يستطيع المهاجم استخدامها لكي يقوم بإنشاء قناة مخفية لتحكم والسيطرة على البنية التحتية ولا يتم اكتشافها من قبل أجهزة وأنظمة وبرمجيات الحماية.
 
 ### لتحميل بصيغ متعددة تفضل:
-- صيغة JSON :[تفضل هنا]() 
-- صيغة XLS :[تفضل هنا]()
-- صيغة CSV :[تفضل هنا]() 
-- صيغة XML :[تفضل هنا]()
-- صيغة SQL :[تفضل هنا]()
-- صيغة YML :[تفضل هنا]()
+- صيغة JSON :[تفضل هنا](/MITRE-ATT%26CK-AR/Command-and-Control-Ext/Command-and-Control.json) 
+- صيغة XLS :[تفضل هنا](/MITRE-ATT%26CK-AR/Command-and-Control-Ext/Command-and-Control.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT%26CK-AR/Command-and-Control-Ext/Command-and-Control.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT%26CK-AR/Command-and-Control-Ext/Command-and-Control.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT%26CK-AR/Command-and-Control-Ext/Command-and-Control.sql)
+- صيغة YML :[تفضل هنا](/MITRE-ATT%26CK-AR/Command-and-Control-Ext/Command-and-Control.yml)
  
 ### التقنيات / Techniques
 
