@@ -47,4 +47,4 @@
 
 ✅  [Impact التأثير](/MITRE-ATT&CK-AR/Impact.md)
 
-
+### لتحميل العمل كامل بصيغة PDF: [تفضل هنا](https://github.com/Malajab/incyber/blob/master/MITRE-ATT%26CK-AR/MITRE%20ATT%26CK-AR.pdf)
