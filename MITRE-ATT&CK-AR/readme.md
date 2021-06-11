@@ -9,10 +9,11 @@
    
  ### الشكر والتقدير لشريكنا الاستراتيجي شركة CyberCave والزملاء: 
 
--	مالك الدوسري 
--	ثامر الشمري 
--	محمد السحيمي
--	Nowayer
+-	[مالك الدوسري](https://twitter.com/malajab) 
+-	[ثامر الشمري](https://twitter.com/t44t_)  
+-	[محمد السحيمي](https://twitter.com/msuhaymi) 
+-	[Nowayer](https://github.com/NowayerM) 
+
 
 
 
