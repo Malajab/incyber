@@ -5,12 +5,12 @@
 يقوم المهاجمين باستخدام أساليب متعددة للحصول على صلاحيات اعلى عند اختراق النظام او الشبكة، حيث ان المهاجم بعد عملية الوصول الأول واكتشاف الشبكة والاطلاع عليها قد يواجه صعوبة في الوصول لبعض الأنظمة او الخدمات بسبب محدودية الصلاحيات والاذونات التي قام باختراقها مما يستدعي الى رفع الصلاحيات لهذا الحساب من خلال استغلال اما ثغرات في النظام او اعدادات خاطئة او ثغرات برمجية 
 
 ### لتحميل بصيغ متعددة تفضل:
-- صيغة JSON :[تفضل هنا]() 
-- صيغة XLS :[تفضل هنا]()
-- صيغة CSV :[تفضل هنا]() 
-- صيغة XML :[تفضل هنا]()
-- صيغة SQL :[تفضل هنا]()
-- صيغة YML :[تفضل هنا]()
+- صيغة JSON :[تفضل هنا](/MITRE-ATT&CK-AR/Privilege-Escalation-Ext/Privilege%20Escalation.json) 
+- صيغة XLS :[تفضل هنا](/MITRE-ATT&CK-AR/Privilege-Escalation-Ext/Privilege%20Escalation.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT&CK-AR/Privilege-Escalation-Ext/Privilege%20Escalation.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT&CK-AR/Privilege-Escalation-Ext/Privilege%20Escalation.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Privilege-Escalation-Ext/Privilege%20Escalation.sql)
+- صيغة YML :[تفضل هنا](/MITRE-ATT&CK-AR/Privilege-Escalation-Ext/Privilege%20Escalation.yml)
  
 ### التقنيات / Techniques
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                                              | الوصف / Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
