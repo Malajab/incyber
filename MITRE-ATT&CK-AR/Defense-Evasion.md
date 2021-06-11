@@ -5,12 +5,12 @@
 غالباً ما يقوم المهاجمين بالتهرب من الاكتشاف بعد عملية الاختراق باستخدام أساليب متعددة. وقد تشتمل تلك العمليات على الغاء تثبيت او تعطيل الخدمات/الأجهزة/الأنظمة/التطبيقات الأمنية. او تشفير وترميز البيانات والسكربتات. وقد يقوم المهاجم باستغلال الثقة في بعض العمليات المعروفة داخل النظام لإخفاء برمجياته الضارة. وبعض التقنيات التي قد يستخدمها المهاجم لتخريب الدفاعات.
 
 ### لتحميل بصيغ متعددة تفضل:
-- صيغة JSON :[تفضل هنا]() 
-- صيغة XLS :[تفضل هنا]()
-- صيغة CSV :[تفضل هنا]() 
-- صيغة XML :[تفضل هنا]()
-- صيغة SQL :[تفضل هنا]()
-- صيغة YML :[تفضل هنا]()
+- صيغة JSON :[تفضل هنا](/MITRE-ATT%26CK-AR/Defense-Evasion-Ext/Defense%20Evasion.json) 
+- صيغة XLS :[تفضل هنا](/MITRE-ATT%26CK-AR/Defense-Evasion-Ext/Defense%20Evasion.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT%26CK-AR/Defense-Evasion-Ext/Defense%20Evasion.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT%26CK-AR/Defense-Evasion-Ext/Defense%20Evasion.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT%26CK-AR/Defense-Evasion-Ext/Defense%20Evasion.sql)
+- صيغة YML :[تفضل هنا](/MITRE-ATT%26CK-AR/Defense-Evasion-Ext/Defense%20Evasion.yml)
  
 ### التقنيات / Techniques
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                                                                        | الوصف / Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
