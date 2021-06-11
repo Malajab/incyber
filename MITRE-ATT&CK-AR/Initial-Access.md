@@ -5,12 +5,12 @@
 يتكون الوصول الأولي من مجموعة من التقنيات التي تستخدم للحصول على صلاحيات أولية للوصول للنظام أو الشبكة المستهدفة. وتشمل الأساليب المستخدمة ما بين رسائل تصيّدية أو استغلال نقاط الضعف على الخدمات المتصلة بالإنترنت. وقد يسمح الوصول الأولي للمهاجم باستمراريته وانتشاره داخل الشبكة، بل قد يستطيع المهاجم الحصول على أي من الحسابات الفعالة واستخدامه في أحد الخدمات المتصلة بالإنترنت أو تغيير كلمات المرور الخاصة بها. 
 
 ### لتحميل بصيغ متعددة تفضل:
-- صيغة JSON :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_json.json) 
-- صيغة XLS :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_excel.xlsx)
-- صيغة CSV :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_csv.csv) 
-- صيغة XML :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_xml.xml)
-- صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_sql.sql)
-- صيغة YML :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial-Access_yaml.yml)
+- صيغة JSON :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial%20Access.json) 
+- صيغة XLS :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial%20Access.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial%20Access.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial%20Access.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial%20Access.sql)
+- صيغة YML :[تفضل هنا](/MITRE-ATT&CK-AR/Initial-Access-Ext/Initial%20Access.yml)
  
 ### التقنيات / Techniques
 | ID / المعرف | المعرف الفرعي | الاسم/ Name                                                                                 | الوصف / Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
