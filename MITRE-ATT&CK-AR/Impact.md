@@ -6,12 +6,12 @@
 الأثر يتكون من تقنيات يستخدمها المهاجم لتعطيل التوافرية أو التلاعب في سلامة الأعمال والعمليات التشغيلية. التقنيات المستخدمة قد تكون تدميرية أو للعبث في البيانات. في بعض الحالات، قد تكون عمليات المنظمة تبدو جيدة، لكن من الممكن بأن تم التعديل عليها من قبل المهاجم لتحقيق أهدافه. لذا من الممكن استخدام هذه الأساليب من قبل المهاجمين لمتابعة تحقيق هدفهم النهائي أو لتوفير غطاء عن العملية برمتها . 
 
 ### لتحميل بصيغ متعددة تفضل:
-- صيغة JSON :[تفضل هنا](/MITRE-ATT&CK-AR/Impact-Ext/Impact_json.json) 
-- صيغة XLS :[تفضل هنا](/MITRE-ATT&CK-AR/Impact-Ext/Impact_excel.xlsx)
-- صيغة CSV :[تفضل هنا](/MITRE-ATT&CK-AR/Impact-Ext/Impact_csv.csv) 
-- صيغة XML :[تفضل هنا](/MITRE-ATT&CK-AR/Impact-Ext/Impact_xml.xml)
-- صيغة SQL :[تفضل هنا](/MITRE-ATT&CK-AR/Impact-Ext/Impact_sql.sql)
-- صيغة YML :[تفضل هنا](/MITRE-ATT&CK-AR/Impact-Ext/Impact_yaml.yml)
+- صيغة JSON :[تفضل هنا](/MITRE-ATT%26CK-AR/Impact-Ext/Impact.json) 
+- صيغة XLS :[تفضل هنا](/MITRE-ATT%26CK-AR/Impact-Ext/Impact.xlsx)
+- صيغة CSV :[تفضل هنا](/MITRE-ATT%26CK-AR/Impact-Ext/Impact.csv) 
+- صيغة XML :[تفضل هنا](/MITRE-ATT%26CK-AR/Impact-Ext/Impact.xml)
+- صيغة SQL :[تفضل هنا](/MITRE-ATT%26CK-AR/Impact-Ext/Impact.sql)
+- صيغة YML :[تفضل هنا](/MITRE-ATT%26CK-AR/Impact-Ext/Impact.yml)
  
 ### التقنيات / Techniques
 
