@@ -14,7 +14,9 @@
 -	[محمد السحيمي](https://twitter.com/msuhaymi) 
 -	[Nowayer](https://github.com/NowayerM) 
 
-
+ ###  مراجعة:
+ - [صلاح الطخيس](https://twitter.com/Salah_Altokhais)
+ - [فهد الدريبي ](https://twitter.com/Fahad_Alduraibi)
 
 
 ### مراحل الهجوم:  
