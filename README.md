@@ -26,6 +26,9 @@
   - [<p dir='rtl' align='right'> ✅  اسئلة و اجوبة للمبتدئين</p>](/questions.md)
   - [<p dir='rtl' align='right'> ✅ نماذج وخطوات رفع تقارير مكافآة الثغرات BugBouty - Report</p>](/Template/bug-report.md)
   - [<p dir='rtl' align='right'> ✅مركز العمليات السيبرانية المستوى الاول - SOC Level 1</p>](/SOC/level-1.md)
+  - [<p dir='rtl' align='right'> ✅ اطار OWASP TOP 10 باللغة العربية</p>](https://owasp.org/Top10/ar/)
+  - [<p dir='rtl' align='right'> ✅ اطار OWASP TOP 10 API باللغة العربية </p>](https://github.com/OWASP/API-Security/blob/master/2019/ar/dist/owasp-api-security-top-10-ar.pdf)
+
   
 
 ## <h3 dir='rtl' align='right'>📤 الاقتراحات  </h3>
