@@ -28,7 +28,7 @@
   - [<p dir='rtl' align='right'> ✅مركز العمليات السيبرانية المستوى الاول - SOC Level 1</p>](/SOC/level-1.md)
   - [<p dir='rtl' align='right'> ✅ اطار OWASP TOP 10 باللغة العربية</p>](https://owasp.org/Top10/ar/)
   - [<p dir='rtl' align='right'> ✅ اطار OWASP TOP 10 API باللغة العربية </p>](https://github.com/OWASP/API-Security/blob/master/2019/ar/dist/owasp-api-security-top-10-ar.pdf)
-
+  - [<p dir='rtl' align='right'> ✅ شركات الامن السيبراني الوطنية</p>](/resources/company.md)
   
 
 ## <h3 dir='rtl' align='right'>📤 الاقتراحات  </h3>
