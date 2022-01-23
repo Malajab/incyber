@@ -5,6 +5,6 @@
     - أداة [EveBox](https://evebox.org/) : تقوم بعرض وتحليل البيانات ومخرجات اداة suricata بشكل رسومي وقد يغني عن ارسال التهديدات الى SIEM.
     - أداة [Scirius](https://github.com/StamusNetworks/scirius): تقوم بعرض البيانات لأداة  suricata بشكل رسومي.
 * توزيعه  [SecurityOnion](https://securityonion.net/): وهي توزيعه Linux مجانية ومفتوحة المصدر لرصد التهديدات ومراقبتها وإدارة سجلات الاحداث. وهي تشمل على برمجيات و أدوات متعددة ومنها  Elasticsearch و Logstash و Kibana و Snort و Suricata و Zeek (المعروفة سابقًا باسم Bro) و Wazuh و Sguil و Squert و CyberChef و NetworkMiner والعديد من أدوات الأمان الأخرى.
-  
+* أداة [Moloch](https://molo.ch/) : تقوم بتحسين آلية عنونة وتخزين البيانات الشبكية على شكل ملفات PCAP، وذلك بهدف تحسين سرعه الوصول لها واسترجاعها او استعراضها، وتأتي الأداة على شكل صفحة ويب تستطيع من خلالها قراءة ملفات PCAP والبحث والتحليل.  
 
 </div>
