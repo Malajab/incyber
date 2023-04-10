@@ -1,4 +1,4 @@
-# Malek Aldossary
+# This Code write by Malek Aldossary
 import requests
 import socket
 import os
