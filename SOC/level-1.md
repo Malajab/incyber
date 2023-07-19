@@ -1,3 +1,4 @@
+<div dir="rtl" align='right'>
 <h2 dir='rtl' align='right'>مركز العمليات السيبرانية Cyber Secuirty Operation Center  </h2>
 
 <h3 dir='rtl' align='right'> 📃 المستوى الاول - Level 1</h3>
@@ -724,12 +725,14 @@
           
  <h3 dir='rtl' align='right'> 📚 مصادر مفيدة </h3>
          
-- [<p dir='rtl' align='right'>🔗 مستودع لجميع ادوات جمع المعلومات الاستخباراتية </p>](https://github.com/hslatman/awesome-threat-intelligence)
 
-- [<p dir='rtl' align='right'>🔗 منصة SANS للمقالات يفضل الاطلاع عليها بشكل يومي </p>](https://github.com/hslatman/awesome-threat-intelligencehttps://www.sans.org/reading-room/)
+- [🔗 مستودع لجميع ادوات جمع المعلومات الاستخباراتية]([/](https://github.com/hslatman/awesome-threat-intelligence))
 
-- [<p dir='rtl' align='right'>🔗 لقاء عن مراكز العمليات السيبرانية </p>](https://www.youtube.com/watch?v=Nbrr8otDTEY)
+- [🔗 منصة SANS للمقالات يفضل الاطلاع عليها بشكل يومي](https://github.com/hslatman/awesome-threat-intelligencehttps://www.sans.org/reading-room/)
 
-- [<p dir='rtl' align='right'>🔗 يوم في حياة موظف في مركز العمليات السيبرانية SOC </p>](https://www.youtube.com/watch?v=d9MgjPw1_bU&t=681s)
+- [🔗 لقاء عن مراكز العمليات السيبرانية ](https://www.youtube.com/watch?v=Nbrr8otDTEY)
 
+- [🔗 يوم في حياة موظف في مركز العمليات السيبرانية SOC](https://www.youtube.com/watch?v=d9MgjPw1_bU&t=681s)
+
+</div>
 
